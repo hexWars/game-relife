@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-06T13:09:48+08:00",
+  "attributes": {
+    "charm": {
+      "label": "魅力",
+      "points": 6,
+      "level": 3
+    },
+    "intelligence": {
+      "label": "智力",
+      "points": 5,
+      "level": 2
+    },
+    "stamina": {
+      "label": "体力",
+      "points": 4,
+      "level": 2
+    },
+    "spirit": {
+      "label": "精神",
+      "points": 4,
+      "level": 2
+    }
+  },
+  "history": [
+    {
+      "date": "2026-08-01",
+      "charm": 2,
+      "intelligence": 1,
+      "stamina": 1,
+      "spirit": 1
+    },
+    {
+      "date": "2026-08-02",
+      "charm": 1,
+      "intelligence": 2,
+      "stamina": 0,
+      "spirit": 2
+    },
+    {
+      "date": "2026-08-03",
+      "charm": 1,
+      "intelligence": 1,
+      "stamina": 2,
+      "spirit": 0
+    },
+    {
+      "date": "2026-08-04",
+      "charm": 2,
+      "intelligence": 1,
+      "stamina": 1,
+      "spirit": 1
+    },
+    {
+      "date": "2026-08-05",
+      "charm": 0,
+      "intelligence": 0,
+      "stamina": 0,
+      "spirit": 0
+    }
+  ]
+}
