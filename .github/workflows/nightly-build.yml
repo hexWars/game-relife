@@ -18,6 +18,10 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # deploy-pages 要求 job 显式声明 github-pages 环境
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -76,4 +80,5 @@ jobs:
           path: dist
 
       - name: Deploy Pages
+        id: deployment
         uses: actions/deploy-pages@v4
