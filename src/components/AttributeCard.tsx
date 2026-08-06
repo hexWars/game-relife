@@ -4,73 +4,81 @@ import { getLevelInfo } from '../lib/levels';
 interface AttributeCardProps {
   attr: AttributeDef;
   points: number;
-  today: number;
+  yesterday: number;
   active: boolean;
   onClick: () => void;
 }
 
-export default function AttributeCard({ attr, points, today, active, onClick }: AttributeCardProps) {
+export default function AttributeCard({ attr, points, yesterday, active, onClick }: AttributeCardProps) {
   const { level, currentThreshold, nextThreshold, progress } = getLevelInfo(points);
   const pct = Math.round(progress * 100);
-  const barWidth = Math.max(pct, 3); // 保留最小可见长度
+  const barWidth = pct === 0 ? 0 : Math.max(pct, 2);
+  const gainedInLevel = points - currentThreshold; // 本级内已获得
+  const levelSpan = nextThreshold - currentThreshold; // 本级跨度
+  const toNextLevel = nextThreshold - points; // 距下一级还差
 
   return (
     <button
       type="button"
       onClick={onClick}
-      className={`w-full rounded-2xl border p-5 text-left backdrop-blur transition-all duration-300 ${
-        active ? 'scale-[1.02]' : 'hover:scale-[1.01] hover:border-white/20'
+      className={`w-full rounded-xl border bg-white p-6 text-left transition-all duration-300 ${
+        active
+          ? 'border-neutral-300'
+          : 'border-neutral-200 shadow-sm hover:border-neutral-300 hover:shadow-md'
       }`}
       style={{
-        borderColor: active ? attr.color : 'rgba(255,255,255,0.09)',
-        background: `linear-gradient(160deg, ${attr.color}1a, rgba(10,14,26,0.65) 55%)`,
-        boxShadow: active ? `0 0 32px ${attr.color}40` : 'none',
+        boxShadow: active ? `0 10px 30px ${attr.color}26` : undefined,
+        background: active ? `linear-gradient(180deg, ${attr.color}0d, #ffffff 60%)` : undefined,
       }}
     >
+      {/* ===== 属性头部 ===== */}
       <div className="flex items-start justify-between">
         <div className="flex items-center gap-3">
-          <span className="text-3xl" style={{ filter: `drop-shadow(0 0 10px ${attr.color})` }}>
+          <span
+            className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg text-lg"
+            style={{ background: `${attr.color}1a` }}
+          >
             {attr.icon}
           </span>
           <div>
-            <div className="text-lg font-bold text-white">{attr.label}</div>
-            <div className="text-xs text-slate-400">{attr.description}</div>
+            <div className="text-base font-bold text-neutral-900">{attr.label}</div>
+            <div className="text-xs text-neutral-400">{attr.description}</div>
           </div>
         </div>
-        <span
-          className="font-display rounded-lg border px-2.5 py-1 text-sm font-black"
-          style={{ color: attr.color, background: `${attr.color}1a`, borderColor: `${attr.color}55` }}
-        >
+        <span className="text-sm font-semibold tabular-nums" style={{ color: attr.color }}>
           Lv.{level}
         </span>
       </div>
 
-      <div className="mt-4 flex items-end justify-between">
+      {/* ===== 点数 ===== */}
+      <div className="mt-7 flex items-end justify-between gap-4">
         <div>
-          <div className="font-display text-2xl font-black" style={{ color: attr.color }}>
+          <div
+            className="text-4xl font-light leading-none tabular-nums sm:text-5xl"
+            style={{ color: attr.color }}
+          >
             {points}
           </div>
-          <div className="text-[10px] uppercase tracking-widest text-slate-500">累计点数</div>
+          <div className="mt-2 text-[11px] uppercase tracking-[0.25em] text-neutral-400">累计点数</div>
         </div>
-        <div className="text-right text-xs text-slate-400">
-          <div>今日 +{today}</div>
-          <div className="text-slate-500">下一级 {nextThreshold}</div>
+        <div className="text-right text-xs">
+          <div className="font-semibold tabular-nums" style={{ color: attr.color }}>
+            昨日 +{yesterday}
+          </div>
+          <div className="mt-1 text-neutral-400">下一级 {nextThreshold}</div>
         </div>
       </div>
 
-      <div className="mt-3 h-2.5 w-full overflow-hidden rounded-full bg-white/5">
+      {/* ===== 进度条 ===== */}
+      <div className="mt-6 h-1 w-full overflow-hidden rounded-full bg-neutral-100">
         <div
           className="h-full rounded-full transition-all duration-500"
-          style={{
-            width: `${barWidth}%`,
-            background: `linear-gradient(90deg, ${attr.color}, ${attr.color}bb)`,
-            boxShadow: `0 0 12px ${attr.color}`,
-          }}
+          style={{ width: `${barWidth}%`, background: attr.color }}
         />
       </div>
-      <div className="mt-1.5 flex justify-between text-[10px] text-slate-500">
+      <div className="mt-2.5 flex justify-between text-[11px] tabular-nums text-neutral-400">
         <span>
-          本级 {currentThreshold} → {points}
+          当前 {gainedInLevel}/{levelSpan}
         </span>
         <span>{pct}%</span>
       </div>

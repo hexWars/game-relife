@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  --font-display: "Orbitron", "Noto Sans SC", ui-sans-serif, sans-serif;
+  --font-display: "Noto Serif SC", "Noto Sans SC", ui-serif, serif;
   --font-body: "Noto Sans SC", ui-sans-serif, system-ui, sans-serif;
 }
 
@@ -12,17 +12,17 @@ body {
 }
 
 body {
-  color: #e2e8f0;
-  background-color: #0a0e1a;
+  color: #171717;
+  background-color: #faf9f6;
+  /* 极淡的暖色渲染，模拟纸面质感 */
   background-image:
-    radial-gradient(1200px 620px at 15% -10%, rgba(99, 102, 241, 0.28), transparent 60%),
-    radial-gradient(1000px 520px at 108% 0%, rgba(236, 72, 153, 0.2), transparent 55%),
-    radial-gradient(900px 520px at 50% 115%, rgba(34, 211, 238, 0.14), transparent 60%);
+    radial-gradient(1100px 520px at 88% -8%, rgba(194, 84, 62, 0.06), transparent 60%),
+    radial-gradient(900px 480px at -8% 108%, rgba(47, 127, 214, 0.05), transparent 55%);
   background-attachment: fixed;
 }
 
-/* 让 Orbitron 数字更整齐 */
+/* 衬线展示字体 */
 .font-display {
   font-family: var(--font-display);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
 }
