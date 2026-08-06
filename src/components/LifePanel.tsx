@@ -109,7 +109,7 @@ export default function LifePanel({ stats }: LifePanelProps) {
           {lastDay ? <span className="text-neutral-400">· 最近记录 {lastDay.date}</span> : null}
         </div>
         <p className="mt-2.5 text-[11px] leading-relaxed text-neutral-400">
-          数据来源：滴答清单 · 按标签完成数累计 · 每日 03:00（北京时间）自动同步构建
+          数据来源：滴答清单 · AI 判定属性增减 · 每日 03:00（北京时间）自动同步构建
         </p>
       </footer>
     </main>

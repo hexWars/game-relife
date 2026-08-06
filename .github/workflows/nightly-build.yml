@@ -1,13 +1,18 @@
 name: Nightly Build
 
-# 每天 19:00 UTC = 次日 03:00 北京时间
+# 触发：推代码时也同步+部署；每天 19:00 UTC = 次日 03:00 北京时间定时跑
+# paths-ignore data/** 防止「提交 data/tasks.json」本身再次触发（死循环）
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/**'
   schedule:
     - cron: '0 19 * * *'
   workflow_dispatch: {} # 手动触发，方便首次/调试
 
 permissions:
-  contents: write # 提交 data/stats.json
+  contents: write # 提交 data/tasks.json
   pages: write # 部署 GitHub Pages
   id-token: write
 
@@ -34,7 +39,7 @@ jobs:
 
       # ---------- ① Claude Code 无头：连滴答 MCP，同步昨日数据 ----------
       # scripts/sync.mjs 会生成带真实令牌的临时 MCP 配置（--mcp-config），
-      # 读取 prompts/sync-stats.md 作为指令，跑完自动清理临时配置
+      # 读取 prompts/sync-week.md 作为指令，跑完自动清理临时配置
       - name: Install Claude Code CLI
         run: npm install -g @anthropic-ai/claude-code@2.1.223
 
@@ -53,15 +58,15 @@ jobs:
         continue-on-error: true
 
       # ---------- ② 校验并提交数据 ----------
-      # stats.json 损坏则回滚到上一个合法版本；无变化则跳过提交
-      - name: Commit stats
+      # tasks.json 损坏则回滚到上一个合法版本；无变化则跳过提交
+      - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          node -e "JSON.parse(require('fs').readFileSync('data/stats.json','utf8'))" || git checkout -- data/stats.json
-          git add data/stats.json
+          node -e "JSON.parse(require('fs').readFileSync('data/tasks.json','utf8'))" || git checkout -- data/tasks.json
+          git add data/tasks.json
           git diff --cached --quiet && echo "no change" || {
-            git commit -m "chore(stats): sync $(TZ=Asia/Shanghai date +%F)"
+            git commit -m "chore(data): sync $(TZ=Asia/Shanghai date +%F)"
             git push
           }
 

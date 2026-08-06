@@ -1,10 +1,11 @@
 ---
 import '../styles/global.css';
 import LifePanel from '../components/LifePanel';
-import type { StatsFile } from '../lib/types';
-import rawStats from '../../data/stats.json';
+import type { TasksFile } from '../lib/types';
+import { deriveStats } from '../lib/derive';
+import rawTasks from '../../data/tasks.json';
 
-const stats = rawStats as StatsFile;
+const stats = deriveStats(rawTasks as TasksFile);
 ---
 
 <!doctype html>

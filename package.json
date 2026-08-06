@@ -8,7 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "sync": "node scripts/sync.mjs"
+    "sync": "node scripts/sync.mjs",
+    "backfill": "node scripts/backfill.mjs"
   },
   "dependencies": {
     "@astrojs/react": "^6.0.2",

@@ -9,6 +9,9 @@ dist/
 .claude/settings.local.json
 .mcp.generated.json
 
+# 同步/回填的中间缓存
+data/.cache/
+
 # 系统文件
 .DS_Store
 Thumbs.db
