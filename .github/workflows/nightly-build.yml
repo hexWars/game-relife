@@ -76,8 +76,12 @@ jobs:
         run: npm run build
 
       # ---------- ④ 部署 GitHub Pages ----------
+      # enablement:true 自动启用 Pages 并设为「GitHub Actions」发布源
+      #（若仓库已手动配置则无副作用；私有仓库需付费套餐，请改用公开仓库）
       - name: Configure Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
