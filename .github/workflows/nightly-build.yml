@@ -1,0 +1,75 @@
+name: Nightly Build
+
+# 每天 19:00 UTC = 次日 03:00 北京时间
+on:
+  schedule:
+    - cron: '0 19 * * *'
+  workflow_dispatch: {} # 手动触发，方便首次/调试
+
+permissions:
+  contents: write # 提交 data/stats.json
+  pages: write # 部署 GitHub Pages
+  id-token: write
+
+concurrency:
+  group: nightly
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # ---------- ① Claude Code 无头：连滴答 MCP，同步昨日数据 ----------
+      # scripts/sync.mjs 会生成带真实令牌的临时 MCP 配置（--mcp-config），
+      # 读取 prompts/sync-stats.md 作为指令，跑完自动清理临时配置
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code@2.1.223
+
+      - name: Sync stats (Claude Code + Dida365 MCP)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DIDA_MCP_TOKEN: ${{ secrets.DIDA_MCP_TOKEN }}
+        run: node scripts/sync.mjs
+        # 同步失败不阻断构建：页面展示旧数据 + 上次同步时间
+        continue-on-error: true
+
+      # ---------- ② 校验并提交数据 ----------
+      # stats.json 损坏则回滚到上一个合法版本；无变化则跳过提交
+      - name: Commit stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          node -e "JSON.parse(require('fs').readFileSync('data/stats.json','utf8'))" || git checkout -- data/stats.json
+          git add data/stats.json
+          git diff --cached --quiet && echo "no change" || {
+            git commit -m "chore(stats): sync $(TZ=Asia/Shanghai date +%F)"
+            git push
+          }
+
+      # ---------- ③ 构建静态站 ----------
+      - name: Build
+        env:
+          SITE_URL: https://${{ github.repository_owner }}.github.io
+          BASE_PATH: /${{ github.repository.split('/')[1] }}/
+        run: npm run build
+
+      # ---------- ④ 部署 GitHub Pages ----------
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy Pages
+        uses: actions/deploy-pages@v4

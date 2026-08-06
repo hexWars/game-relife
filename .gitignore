@@ -1,0 +1,16 @@
+# 依赖与构建产物
+node_modules/
+dist/
+.astro/
+
+# 本地令牌 / 敏感信息（真实令牌绝不提交）
+.env
+.env.local
+.claude/settings.local.json
+.mcp.generated.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 注意：data/stats.json 必须提交到仓库（等级数据是构建输入）

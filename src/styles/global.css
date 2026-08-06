@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Orbitron", "Noto Sans SC", ui-sans-serif, sans-serif;
+  --font-body: "Noto Sans SC", ui-sans-serif, system-ui, sans-serif;
+}
+
+html,
+body {
+  min-height: 100%;
+  font-family: var(--font-body);
+}
+
+body {
+  color: #e2e8f0;
+  background-color: #0a0e1a;
+  background-image:
+    radial-gradient(1200px 620px at 15% -10%, rgba(99, 102, 241, 0.28), transparent 60%),
+    radial-gradient(1000px 520px at 108% 0%, rgba(236, 72, 153, 0.2), transparent 55%),
+    radial-gradient(900px 520px at 50% 115%, rgba(34, 211, 238, 0.14), transparent 60%);
+  background-attachment: fixed;
+}
+
+/* 让 Orbitron 数字更整齐 */
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: 0.02em;
+}
