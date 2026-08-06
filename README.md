@@ -56,7 +56,10 @@ GitHub Actions（每天 19:00 UTC = 北京 03:00）
    `.mcp.json` 会自动用环境变量 `DIDA_MCP_TOKEN` 注入 Bearer 头。
 3. **GitHub 仓库 Secrets**（Settings → Secrets and variables → Actions）：
    - `DIDA_MCP_TOKEN` = 上面的 API 口令
-   - `ANTHROPIC_API_KEY` = 在 https://console.anthropic.com/settings/keys 创建
+   - `DEEPSEEK_API_KEY` = 在 https://platform.deepseek.com/api_keys 创建。
+     本项目 Claude Code 走 DeepSeek 的 Anthropic 兼容端点
+     （`https://api.deepseek.com/anthropic`，模型 `deepseek-v4-flash`），
+     workflow 里已配好；想换模型只改 workflow 的 `ANTHROPIC_MODEL` 即可。
 4. **开启 GitHub Pages**：仓库 Settings → Pages → Source 选 **GitHub Actions**。
 5. **确认滴答里已有 4 个标签**：`魅力` `智力` `体力` `精神`（一字不差）。
 6. 手动触发一次：Actions → Nightly Build → Run workflow，验证全链路。
