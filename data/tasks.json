@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-06T15:44:33.895+08:00",
+  "updatedAt": "2026-08-07T08:40:46.030+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -32977,6 +32977,126 @@
         "spirit": 0
       },
       "reason": "为朋友许文熙过生日，维护人际关系 → 魅力+1"
+    },
+    {
+      "taskId": "6a7003bb99fe11257e7d6769",
+      "completedAt": "2026-08-06T08:37:04+0000",
+      "title": "和我爸确定华阳的案子",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "确认华阳业务案子属工作事务沟通协调"
+    },
+    {
+      "taskId": "6a617283d4ccd18298ae6cf7",
+      "completedAt": "2026-08-06T09:08:36+0000",
+      "title": "绩效邮件",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "绩效邮件属工作产出，与历史KPI绩效任务一致"
+    },
+    {
+      "taskId": "6a72d382ebae5a000000012e",
+      "completedAt": "2026-08-06T09:26:41+0000",
+      "title": "外币还款",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "还款属常规财务操作，与历史还款任务一致不给分"
+    },
+    {
+      "taskId": "6a66c6b1250c11b9f3348366",
+      "completedAt": "2026-08-06T09:26:44+0000",
+      "title": "问一下那个iso的",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "信息询问类小事，无法明确对应属性，不给分"
+    },
+    {
+      "taskId": "6a5cf875ebae5a00000002ec",
+      "completedAt": "2026-08-06T10:04:11+0000",
+      "title": "报销5月费用",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "月度报销属日常行政，与历史报销类任务一致不给分"
+    },
+    {
+      "taskId": "6a70d2502fbdd137095e7fb0",
+      "completedAt": "2026-08-06T10:17:21+0000",
+      "title": "停车票整理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "停车票整理属日常琐事，不给分"
+    },
+    {
+      "taskId": "6a714edbebae5a0000000264",
+      "completedAt": "2026-08-06T10:17:22+0000",
+      "title": "昨天停车的发票整理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "停车发票整理属日常琐事，不给分"
+    },
+    {
+      "taskId": "6a6d7cb13e4f510cad0888a7",
+      "completedAt": "2026-08-06T10:32:41+0000",
+      "title": "检查收入和税务",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "检查收入与税务属财务类工作产出，与历史税务任务一致"
+    },
+    {
+      "taskId": "6a747b06ebae5a0000000443",
+      "completedAt": "2026-08-06T12:31:24+0000",
+      "title": "回复网友",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "围绕996与闲暇时长谬误展开的分析性讨论，属有实质内容的思考表达"
+    },
+    {
+      "taskId": "6a33e8986299514a4fa1da5d",
+      "completedAt": "2026-08-06T15:27:39+0000",
+      "title": "报销整理 有问题的滴滴，高速费，注意，特别是那几天，要对好",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "发票报销整理属日常行政琐事，与历史同类报销整理任务一致不给分"
     }
   ]
 }
