@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-07T08:40:46.030+08:00",
+  "updatedAt": "2026-08-08T03:50:51.191+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -33097,6 +33097,66 @@
         "spirit": 0
       },
       "reason": "发票报销整理属日常行政琐事，与历史同类报销整理任务一致不给分"
+    },
+    {
+      "taskId": "6a745380ebae5a0000000334",
+      "completedAt": "2026-08-07T02:31:39+0000",
+      "title": "按照短信升级储蓄卡柜面",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "银行柜面办事琐事，不给分"
+    },
+    {
+      "taskId": "6a67288144cb91c24ae9b8b5",
+      "completedAt": "2026-08-07T03:48:52+0000",
+      "title": "富士康的报销",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常报销琐事，不给分"
+    },
+    {
+      "taskId": "6a660befebae5a000000039b",
+      "completedAt": "2026-08-07T05:54:29+0000",
+      "title": "茶叶学习背诵",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "学习背诵茶叶知识，智力+1"
+    },
+    {
+      "taskId": "6a660e95ebae5a00000003ea",
+      "completedAt": "2026-08-07T05:54:59+0000",
+      "title": "完整 一点的 这次流程 可以写到博客",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "把工作流程写成博客，属于写作产出，智力+1"
+    },
+    {
+      "taskId": "6a7594bcac97d176e0b509e6",
+      "completedAt": "2026-08-07T08:43:27+0000",
+      "title": "看点赞的xhs视频",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常消遣，属性影响不明确，不给分"
     }
   ]
 }
