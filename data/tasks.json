@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-08T03:50:51.191+08:00",
+  "updatedAt": "2026-08-09T03:26:17.275+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -33157,6 +33157,30 @@
         "spirit": 0
       },
       "reason": "日常消遣，属性影响不明确，不给分"
+    },
+    {
+      "taskId": "6a730002499811555320a4a9",
+      "completedAt": "2026-08-08T00:40:04+0000",
+      "title": "",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "主动去医院跟进检查结果，关注身体健康，体力+1"
+    },
+    {
+      "taskId": "6a77136debae5a000000076e",
+      "completedAt": "2026-08-08T14:14:50+0000",
+      "title": "优绩主义的书籍学习",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "阅读学习书籍，增长知识，智力+1"
     }
   ]
 }
