@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-10T03:29:59.617+08:00",
+  "updatedAt": "2026-08-12T04:00:13.532+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -33277,6 +33277,42 @@
         "spirit": 0
       },
       "reason": "写周报属于工作产出与复盘，增长智力"
+    },
+    {
+      "taskId": "6a79d3a84466911d47cc0741",
+      "completedAt": "2026-08-11T06:32:32+0000",
+      "title": "代驾罚单",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "处理代驾罚单属日常琐事，无显著属性影响，不给分"
+    },
+    {
+      "taskId": "6a799d5a37e1911a96bb6397",
+      "completedAt": "2026-08-11T06:32:57+0000",
+      "title": "学习酒类知识：冰镇酒",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "学习酒类知识属于学习积累，增长智力"
+    },
+    {
+      "taskId": "6a799e862d8c911b93751ecb",
+      "completedAt": "2026-08-11T13:26:01+0000",
+      "title": "刘哥一直在那里耍手机",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "记录他人（刘哥）刷手机行为，非本人行动，无法判定，不给分"
     }
   ]
 }
