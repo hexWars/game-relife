@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-15T03:47:17.227+08:00",
+  "updatedAt": "2026-08-16T03:19:52.368+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -33385,6 +33385,66 @@
         "spirit": 0
       },
       "reason": "处理停车发票，属日常琐事，无属性影响"
+    },
+    {
+      "taskId": "6a7f3dcbebae5a0000000eba",
+      "completedAt": "2026-08-14T16:30:57+0000",
+      "title": "那个合适做成skill的书，认知觉醒",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "学习《认知觉醒》一书并整理成技能，属读书学习，智力+1"
+    },
+    {
+      "taskId": "6a6781da0673d1c512bfcfe9",
+      "completedAt": "2026-08-15T05:41:54+0000",
+      "title": "问我爸：刘哥还说，有空要去和刘姐那里坐？",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "询问父亲关于拜访刘姐的事，属中性沟通，不予计分"
+    },
+    {
+      "taskId": "6a7f11d9ebae5a0000000d6c",
+      "completedAt": "2026-08-15T05:47:01+0000",
+      "title": "和我爸说明",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与父亲沟通家庭事务，属日常沟通，不予计分"
+    },
+    {
+      "taskId": "6a7c9c19265cd13b492e62c1",
+      "completedAt": "2026-08-15T05:47:02+0000",
+      "title": "咨询我爸：3c验证那种",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "咨询父亲琐事，中性沟通，不予计分"
+    },
+    {
+      "taskId": "69ae5251a1555133d7ca5c6c",
+      "completedAt": "2026-08-15T15:45:06+0000",
+      "title": "8月16淼淼生日，记得给她点蛋糕",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "记住朋友生日并准备蛋糕，属维护关系，魅力+1"
     }
   ]
 }
