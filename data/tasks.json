@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-16T03:19:52.368+08:00",
+  "updatedAt": "2026-08-17T03:19:15.135+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -33445,6 +33445,18 @@
         "spirit": 0
       },
       "reason": "记住朋友生日并准备蛋糕，属维护关系，魅力+1"
+    },
+    {
+      "taskId": "6a81ca9febae5a000000026a",
+      "completedAt": "2026-08-16T14:35:11+0000",
+      "title": "写周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成周报撰写，属工作产出，智力+1"
     }
   ]
 }
