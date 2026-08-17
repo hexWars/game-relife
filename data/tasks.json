@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-17T03:19:15.135+08:00",
+  "updatedAt": "2026-08-18T03:25:22.816+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -33457,6 +33457,126 @@
         "spirit": 0
       },
       "reason": "完成周报撰写，属工作产出，智力+1"
+    },
+    {
+      "taskId": "6a203ecaebae5a000000044c",
+      "completedAt": "2026-08-17T12:46:33+0000",
+      "title": "粤省事查看公积金，医保，养老，失业缴纳",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动在粤省事核查社保缴纳情况，属工作核查。"
+    },
+    {
+      "taskId": "6a33c21ff93c5146cd75d789",
+      "completedAt": "2026-08-17T12:46:33+0000",
+      "title": "公积金5月是400元",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "核对公积金缴纳金额，属社保核查工作。"
+    },
+    {
+      "taskId": "6a33c28762bc9146cd75da43",
+      "completedAt": "2026-08-17T12:46:34+0000",
+      "title": "失业险还是80",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "核对失业保险缴纳金额，属社保核查工作。"
+    },
+    {
+      "taskId": "6a33c300ea1a5146cd75de63",
+      "completedAt": "2026-08-17T12:46:35+0000",
+      "title": "养老还是和以前一样1920，个人640，其他1280",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "核对养老金缴纳明细，属社保核查工作。"
+    },
+    {
+      "taskId": "6a2004f8ee6ad1d4a085ee9c",
+      "completedAt": "2026-08-17T12:46:36+0000",
+      "title": "工资确定税收",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "核算工资、提成与税收，属工作产出与财务分析。"
+    },
+    {
+      "taskId": "69733734e9901180e48890de",
+      "completedAt": "2026-08-17T13:59:41+0000",
+      "title": "三合一送料机和普通送料机的区别",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "研究机械设备区别，属工作学习类任务。"
+    },
+    {
+      "taskId": "6973324d38fc5180e4888485",
+      "completedAt": "2026-08-17T14:01:15+0000",
+      "title": "冲床，伺服机，小松的主要产品，进口三大件是什么",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "学习机械产品相关知识，属求知积累。"
+    },
+    {
+      "taskId": "6976f5550c8fd1a3bdb26fef",
+      "completedAt": "2026-08-17T14:11:31+0000",
+      "title": "嘴唇有皮",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常琐事记录，无法判断属性影响，不给分。"
+    },
+    {
+      "taskId": "699e974935e291fc4b025576",
+      "completedAt": "2026-08-17T14:11:50+0000",
+      "title": "openclaw",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "研究 openclaw 技术项目，属学习探索类任务。"
+    },
+    {
+      "taskId": "69ab9429ebae5a0000000073",
+      "completedAt": "2026-08-17T15:52:33+0000",
+      "title": "买综合意外险",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成购买保险，属理性财务规划与决策。"
     }
   ]
 }
