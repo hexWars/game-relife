@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-18T03:25:22.816+08:00",
+  "updatedAt": "2026-08-19T03:25:43.578+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -33577,6 +33577,54 @@
         "spirit": 0
       },
       "reason": "完成购买保险，属理性财务规划与决策。"
+    },
+    {
+      "taskId": "6a82ef25ebae5a0000000356",
+      "completedAt": "2026-08-18T02:08:51+0000",
+      "title": "问一下沙拉姐iso的事情",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常沟通琐事，无明确成长属性，不给分"
+    },
+    {
+      "taskId": "6a83b5ce7d98d184f15823b5",
+      "completedAt": "2026-08-18T04:29:02+0000",
+      "title": "驾驶自然程度",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题含义不明且无内容，无法判断，不给分"
+    },
+    {
+      "taskId": "6a807ce5ebae5a00000000f5",
+      "completedAt": "2026-08-18T04:29:08+0000",
+      "title": "和我爸问一下ppt的事情",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "家庭日常事务沟通，属日常琐事，不给分"
+    },
+    {
+      "taskId": "6a69fb58ebae5a0000000c1b",
+      "completedAt": "2026-08-18T15:12:58+0000",
+      "title": "自我介绍",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动撰写并发出恋爱/相亲自我介绍，属社交与维护关系，加魅力"
     }
   ]
 }
