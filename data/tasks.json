@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-20T03:22:34.708+08:00",
+  "updatedAt": "2026-08-21T03:29:20.440+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -33673,6 +33673,90 @@
         "spirit": 0
       },
       "reason": "日常琐碎观察记录，无法判断属性影响"
+    },
+    {
+      "taskId": "6a85cc23ea1091a29288ab09",
+      "completedAt": "2026-08-20T05:48:02+0000",
+      "title": "停车发票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "发票事务，中性不给分"
+    },
+    {
+      "taskId": "6a86e0ba304251b1add4f920",
+      "completedAt": "2026-08-20T12:07:27+0000",
+      "title": "买空调滤芯",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "购买配件琐事，中性不给分"
+    },
+    {
+      "taskId": "6a86ee08ebae5a000000094a",
+      "completedAt": "2026-08-20T12:47:24+0000",
+      "title": "雷克萨斯es试驾",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "试驾体验活动，属性影响不明确，宁缺毋滥给0"
+    },
+    {
+      "taskId": "6a86f75febae5a0000000a6d",
+      "completedAt": "2026-08-20T13:44:38+0000",
+      "title": "发xhs",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "撰写并发布小红书内容，属写作产出，智力加分"
+    },
+    {
+      "taskId": "6a86583d7cb491a58d1c272e",
+      "completedAt": "2026-08-20T14:07:52+0000",
+      "title": "电话先挂掉欧总",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作电话沟通，中性事务不给分"
+    },
+    {
+      "taskId": "6a85d42cb8c591a2fb0a46d9",
+      "completedAt": "2026-08-20T14:08:28+0000",
+      "title": "和我爸说，这个事情刘君知道是投资并且早就说了",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与父亲沟通澄清事务，中性沟通不给分"
+    },
+    {
+      "taskId": "6a871fd569e451b599d58b58",
+      "completedAt": "2026-08-20T15:57:48+0000",
+      "title": "链接",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "子项为空且含义不明，宁缺毋滥给0"
     }
   ]
 }
