@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-26T03:28:09.412+08:00",
+  "updatedAt": "2026-08-27T05:38:01.882+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -33901,6 +33901,138 @@
         "spirit": 0
       },
       "reason": "日常琐碎采购，无属性相关，不给分"
+    },
+    {
+      "taskId": "6a8e408c43f7910ec9089ec3",
+      "completedAt": "2026-08-26T01:50:25+0000",
+      "title": "眼镜",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "内容不明确的日常琐事，不给分"
+    },
+    {
+      "taskId": "6a8d8adbebae5a0000001241",
+      "completedAt": "2026-08-26T01:51:10+0000",
+      "title": "东西整理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "为商务出差周密整理行李清单并执行，属规划与工作准备产出，智力加分"
+    },
+    {
+      "taskId": "6a8e46d607fa110fb2d6701a",
+      "completedAt": "2026-08-26T01:52:22+0000",
+      "title": "kpw6 5.19.x 有没有越狱方案",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "查阅 Kindle 越狱方案的娱乐性研究，无明确成长价值，不给分"
+    },
+    {
+      "taskId": "6a8ecaf3f3a31119a59d17ef",
+      "completedAt": "2026-08-26T11:59:34+0000",
+      "title": "蔡总管理吗",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "确认工作组织架构信息，属工作事务，智力加分"
+    },
+    {
+      "taskId": "6a8eccc4bbbdd119a59d1910",
+      "completedAt": "2026-08-26T12:00:25+0000",
+      "title": "自己印名片",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "为商务出差准备名片，属工作准备产出，智力加分"
+    },
+    {
+      "taskId": "6a8ecde4f8b01119a59d1a2f",
+      "completedAt": "2026-08-26T12:01:10+0000",
+      "title": "林亚男",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅有联系对象姓名，具体内容无法判断，不给分"
+    },
+    {
+      "taskId": "6a8ecaeeed65d119a59d17b8",
+      "completedAt": "2026-08-26T12:01:11+0000",
+      "title": "日本多少台",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成工作相关数据核查，属工作产出，智力加分"
+    },
+    {
+      "taskId": "6a8ecae8e8979119a59d17ad",
+      "completedAt": "2026-08-26T13:23:56+0000",
+      "title": "50是日本？",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成工作相关信息核查，属工作产出，智力加分"
+    },
+    {
+      "taskId": "6a8e90b12d729113bddcfb6f",
+      "completedAt": "2026-08-26T15:33:39+0000",
+      "title": "退回流程",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成工作退回流程，属工作产出，智力加分"
+    },
+    {
+      "taskId": "6a8f075debdd9d0000000149",
+      "completedAt": "2026-08-26T15:37:14+0000",
+      "title": "滴滴的高速发票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "索取滴滴高速发票，属报销类日常琐事，不给分"
+    },
+    {
+      "taskId": "6a8f09caebdd9d000000016f",
+      "completedAt": "2026-08-26T15:44:17+0000",
+      "title": "手机花费",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "记录手机花费，属日常记账琐事，不给分"
     }
   ]
 }
