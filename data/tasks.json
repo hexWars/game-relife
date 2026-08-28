@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-27T05:38:01.882+08:00",
+  "updatedAt": "2026-08-28T10:26:03.720+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -34033,6 +34033,90 @@
         "spirit": 0
       },
       "reason": "记录手机花费，属日常记账琐事，不给分"
+    },
+    {
+      "taskId": "6a8f0adeebdd9d0000000204",
+      "completedAt": "2026-08-26T16:01:08+0000",
+      "title": "看一下本月打卡记录",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "复盘本月客户/商机打卡数据，属工作复盘"
+    },
+    {
+      "taskId": "6a8f912668ad9124e870c6f7",
+      "completedAt": "2026-08-27T11:08:07+0000",
+      "title": "中佰外快",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "含义无法判断，不给分"
+    },
+    {
+      "taskId": "6a8f913467799124e870c72e",
+      "completedAt": "2026-08-27T11:08:34+0000",
+      "title": "小松富士康的信息",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "信息查询记录，中性琐事不给分"
+    },
+    {
+      "taskId": "6a8faba64b84d127790772ac",
+      "completedAt": "2026-08-27T11:09:49+0000",
+      "title": "这家到时候要建厂",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "记录性信息，中性不给分"
+    },
+    {
+      "taskId": "6a8fb4e9e8785128ed10703d",
+      "completedAt": "2026-08-27T11:10:53+0000",
+      "title": "信息互通这个人",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作信息沟通，难以判定成长不给分"
+    },
+    {
+      "taskId": "6a8fb62de4fd5128f08884f9",
+      "completedAt": "2026-08-27T11:11:20+0000",
+      "title": "盛兰是哪家",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "单纯信息查询，中性琐事不给分"
+    },
+    {
+      "taskId": "6a8fc395be5cd12a8c595564",
+      "completedAt": "2026-08-27T11:11:22+0000",
+      "title": "发名片给对方，对方也不发名片，只发了个表情",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动发出名片、进行商务社交，属维护关系"
     }
   ]
 }
