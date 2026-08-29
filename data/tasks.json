@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-28T10:26:03.720+08:00",
+  "updatedAt": "2026-08-30T05:31:50.093+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -34117,6 +34117,30 @@
         "spirit": 0
       },
       "reason": "主动发出名片、进行商务社交，属维护关系"
+    },
+    {
+      "taskId": "6a90502bebdd9d00000000e1",
+      "completedAt": "2026-08-29T13:20:45+0000",
+      "title": "有一次说黄玉龙一次被你叫过去挨骂",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "一句转述他人被训斥的笔记，无法判定属性影响，给 0 分"
+    },
+    {
+      "taskId": "6a911575dab11139c3a5cf83",
+      "completedAt": "2026-08-29T13:21:27+0000",
+      "title": "我说刘君和别家有的会有来往",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "一句关于业务关系的笔记，无积极成长或负面行为信息，无法判定属性影响"
     }
   ]
 }
