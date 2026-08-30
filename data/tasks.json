@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-30T05:31:50.093+08:00",
+  "updatedAt": "2026-08-31T05:51:39.248+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -34141,6 +34141,114 @@
         "spirit": 0
       },
       "reason": "一句关于业务关系的笔记，无积极成长或负面行为信息，无法判定属性影响"
+    },
+    {
+      "taskId": "6a943d3cebae5a0000000148",
+      "completedAt": "2026-08-30T14:25:00+0000",
+      "title": "写周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "写周报，工作复盘产出，智力+1"
+    },
+    {
+      "taskId": "6a94485febae5a00000001bd",
+      "completedAt": "2026-08-30T15:19:51+0000",
+      "title": "发票计算",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成发票核算与计算，属工作产出，智力+1"
+    },
+    {
+      "taskId": "6a8f0a63ebdd9d0000000184",
+      "completedAt": "2026-08-30T15:19:54+0000",
+      "title": "4月的私车公用（对照高德地图记录）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销核对类行政事务，中性不给分"
+    },
+    {
+      "taskId": "6a92716b3d3d114c2efb9cbf",
+      "completedAt": "2026-08-30T15:29:03+0000",
+      "title": "了解 呼吸 报刊",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动了解调研「呼吸」报刊，属学习，智力+1"
+    },
+    {
+      "taskId": "6a924c95a52a91479e3c9564",
+      "completedAt": "2026-08-30T15:31:32+0000",
+      "title": "水单，酒店的，收集好",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销相关琐事，中性不给分"
+    },
+    {
+      "taskId": "6a905c323c94d134b6cf0939",
+      "completedAt": "2026-08-30T15:31:57+0000",
+      "title": "两杯奶茶还有晚餐是她付款的",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "记录性笔记，中性琐事不给分"
+    },
+    {
+      "taskId": "6a8db50e69c4910b8c69820c",
+      "completedAt": "2026-08-30T15:32:01+0000",
+      "title": "鹿角蕨",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常购物/植物相关琐事，中性不给分"
+    },
+    {
+      "taskId": "6a8bf093706391f28e5f32a2",
+      "completedAt": "2026-08-30T15:32:06+0000",
+      "title": "来尔德拜访",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "拜访客户、维护业务关系，属社交类，魅力+1"
+    },
+    {
+      "taskId": "6a8c68ffca9891fcd5be16ba",
+      "completedAt": "2026-08-30T15:32:14+0000",
+      "title": "那个酒店要定",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "订酒店属出行安排琐事，无明确成长产出，不给分"
     }
   ]
 }
