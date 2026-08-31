@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-31T05:51:39.248+08:00",
+  "updatedAt": "2026-09-01T07:07:59.592+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -34249,6 +34249,114 @@
         "spirit": 0
       },
       "reason": "订酒店属出行安排琐事，无明确成长产出，不给分"
+    },
+    {
+      "taskId": "6a865f3265f491a58d1c28fa",
+      "completedAt": "2026-08-31T02:19:14+0000",
+      "title": "去找马涛",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "重复提醒/中性日常事务，不给分"
+    },
+    {
+      "taskId": "6a6aa8d4dd6051e5ceb889a7",
+      "completedAt": "2026-08-31T02:19:15+0000",
+      "title": "去找马涛签字",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成签字流程，属工作产出，智力+1"
+    },
+    {
+      "taskId": "6a92ad28f203914fc3920c15",
+      "completedAt": "2026-08-31T02:19:17+0000",
+      "title": "见马涛",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与马涛见面交流，社交往来，魅力+1"
+    },
+    {
+      "taskId": "6a94e4a0987d5170feffe9a2",
+      "completedAt": "2026-08-31T05:55:23+0000",
+      "title": "和欧总聊",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与欧总交流沟通，维护关系，魅力+1"
+    },
+    {
+      "taskId": "6a94b90bf260d16a36d2c57e",
+      "completedAt": "2026-08-31T12:28:14+0000",
+      "title": "飞机行程单？",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "出行行程单琐事，中性不给分"
+    },
+    {
+      "taskId": "6a328a63f2205131459ff2bc",
+      "completedAt": "2026-08-31T12:31:13+0000",
+      "title": "羊排发票整理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销发票整理，中性日常琐事，不给分"
+    },
+    {
+      "taskId": "6a94ee6f8a591170fefff37e",
+      "completedAt": "2026-08-31T13:15:08+0000",
+      "title": "开会",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常工作例会，信息记录，中性不给分"
+    },
+    {
+      "taskId": "6a9459f30c7bd16a36d2c3a4",
+      "completedAt": "2026-08-31T14:29:08+0000",
+      "title": "日语注册！！！",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成日语学习注册，属学习行动，智力+1"
+    },
+    {
+      "taskId": "6a9576ebebae5a0000000375",
+      "completedAt": "2026-08-31T14:29:11+0000",
+      "title": "iphone 引导式访问",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "设置手机功能，中性日常事务，不给分"
     }
   ]
 }
