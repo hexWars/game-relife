@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-01T07:07:59.592+08:00",
+  "updatedAt": "2026-09-02T05:35:17.285+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -34357,6 +34357,306 @@
         "spirit": 0
       },
       "reason": "设置手机功能，中性日常事务，不给分"
+    },
+    {
+      "taskId": "69f5c016d278916a8a94b738",
+      "completedAt": "2026-09-01T02:34:16+0000",
+      "title": "和长辈电话的话术",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "准备与长辈沟通话术，维护关系，魅力成长"
+    },
+    {
+      "taskId": "6a963aeaebae5a00000004ec",
+      "completedAt": "2026-09-01T02:39:38+0000",
+      "title": "kpw6 5.19.x 有没有越狱方案",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "技术调研寻找解决方案，智力成长"
+    },
+    {
+      "taskId": "6a3e482eebae5a00000004d9",
+      "completedAt": "2026-09-01T02:39:44+0000",
+      "title": "kpw6 5.19.x 有没有越狱方案",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "技术调研寻找解决方案，智力成长"
+    },
+    {
+      "taskId": "69023adcebae5a00000005ef",
+      "completedAt": "2026-09-01T02:47:42+0000",
+      "title": "2025.10.30 感想",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 1
+      },
+      "reason": "写作复盘与自我情绪梳理，智力与精神双成长"
+    },
+    {
+      "taskId": "6a943c39ebae5a0000000113",
+      "completedAt": "2026-09-01T03:06:35+0000",
+      "title": "买鹿角蕨板子，确定是亚克力的了，记得鱼线要赠送",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "购物琐事，中性不给分"
+    },
+    {
+      "taskId": "6a427716ebae5a000000064f",
+      "completedAt": "2026-09-01T03:06:39+0000",
+      "title": "日语n3报名",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报考日语考试，学习规划，智力成长"
+    },
+    {
+      "taskId": "6a5ce5afebae5a0000000185",
+      "completedAt": "2026-09-01T03:10:35+0000",
+      "title": "滴答清单结合MCP，获取对应标签的任务数量，可以做到那种系统面板",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "技术方案探索实践，智力成长"
+    },
+    {
+      "taskId": "69e6fc87ebae5a00000000d6",
+      "completedAt": "2026-09-01T03:10:47+0000",
+      "title": "头骨分享的B站视频，王一快",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "看分享视频，内容不明确，宁缺毋滥"
+    },
+    {
+      "taskId": "6a94c76f42be916d04df0976",
+      "completedAt": "2026-09-01T04:31:42+0000",
+      "title": "龙族 卖书籍",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "整理卖书，中性不给分"
+    },
+    {
+      "taskId": "699effa7ebae5a000000013b",
+      "completedAt": "2026-09-01T04:33:19+0000",
+      "title": "卖东西",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "买卖事务，中性不给分"
+    },
+    {
+      "taskId": "6a27815aebae5a00000004d9",
+      "completedAt": "2026-09-01T04:33:19+0000",
+      "title": "手表1",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "子任务碎片，中性不给分"
+    },
+    {
+      "taskId": "6a27815debae5a00000004e3",
+      "completedAt": "2026-09-01T04:33:19+0000",
+      "title": "手表3",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "子任务碎片，中性不给分"
+    },
+    {
+      "taskId": "6a27815cebae5a00000004e1",
+      "completedAt": "2026-09-01T04:33:19+0000",
+      "title": "手表2",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "子任务碎片，中性不给分"
+    },
+    {
+      "taskId": "6a968597ebae5a0000000837",
+      "completedAt": "2026-09-01T09:17:13+0000",
+      "title": "煮饭",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "做饭，属体力相关的自理行为"
+    },
+    {
+      "taskId": "6a44b2d87b4e914856d96251",
+      "completedAt": "2026-09-01T09:32:58+0000",
+      "title": "话费0元？",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "琐事核实，中性不给分"
+    },
+    {
+      "taskId": "6a683afdc58811cc6b5cc3fa",
+      "completedAt": "2026-09-01T09:34:43+0000",
+      "title": "看一下充电宝在哪里",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常琐事，中性不给分"
+    },
+    {
+      "taskId": "6a958fa544b2d17e5e6e880a",
+      "completedAt": "2026-09-01T13:27:31+0000",
+      "title": "问郜康帅疯华阳合适吗",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作咨询，中性不给分"
+    },
+    {
+      "taskId": "6a958fb27d40917e5e6e883a",
+      "completedAt": "2026-09-01T13:27:54+0000",
+      "title": "欧总吃东西，是否需要和他说一声",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作沟通细节，中性不给分"
+    },
+    {
+      "taskId": "6a958f934478117e5e6e86cc",
+      "completedAt": "2026-09-01T13:28:35+0000",
+      "title": "华阳案子自己去弄？",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作安排询问，中性不给分"
+    },
+    {
+      "taskId": "6a96414bebae5a0000000709",
+      "completedAt": "2026-09-01T13:28:37+0000",
+      "title": "问我爸2",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "家庭沟通琐事，无法明确归类"
+    },
+    {
+      "taskId": "6a96e583ebae5a00000009b8",
+      "completedAt": "2026-09-01T14:57:27+0000",
+      "title": "浇水频率",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常照料琐事，中性不给分"
+    },
+    {
+      "taskId": "6a96e813ebae5a00000009f5",
+      "completedAt": "2026-09-01T14:58:27+0000",
+      "title": "动感单车运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "运动锻炼半小时，增强体力"
+    },
+    {
+      "taskId": "6a96ec35ebae5a0000000a55",
+      "completedAt": "2026-09-01T15:16:07+0000",
+      "title": "学习冥想",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 1
+      },
+      "reason": "学习冥想，属精神修炼"
+    },
+    {
+      "taskId": "6a6f5a46ebae5a00000001d7",
+      "completedAt": "2026-09-01T15:29:23+0000",
+      "title": "日语学习",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "系统学习日语并有练习规划，智力成长"
+    },
+    {
+      "taskId": "6a58fcc4ebae5a0000000d1c",
+      "completedAt": "2026-09-01T15:29:37+0000",
+      "title": "日语圆圆老师的音标日语，平假名片假名",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "学习日语五十音（假名），智力成长"
     }
   ]
 }
