@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-02T05:35:17.285+08:00",
+  "updatedAt": "2026-09-04T05:33:56.034+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -34657,6 +34657,54 @@
         "spirit": 0
       },
       "reason": "学习日语五十音（假名），智力成长"
+    },
+    {
+      "taskId": "6a982e097709912d5195c901",
+      "completedAt": "2026-09-03T06:04:44+0000",
+      "title": "发货",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "发货属日常买卖事务，中性不给分"
+    },
+    {
+      "taskId": "6a97923fd66c511c708c6e8e",
+      "completedAt": "2026-09-03T14:16:06+0000",
+      "title": "武腊泉",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "植物相关记录琐事，中性不给分"
+    },
+    {
+      "taskId": "6a9844279e47d12f1a54953b",
+      "completedAt": "2026-09-03T14:16:09+0000",
+      "title": "鱼尾外锦球兰 广东",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "植物购买/打理类琐事，中性不给分"
+    },
+    {
+      "taskId": "6a98423790f5d12f1a54922c",
+      "completedAt": "2026-09-03T14:16:29+0000",
+      "title": "灰绿冷水花",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "植物购买/打理类琐事，中性不给分"
     }
   ]
 }
