@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-04T05:33:56.034+08:00",
+  "updatedAt": "2026-09-05T05:12:57.591+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -34705,6 +34705,66 @@
         "spirit": 0
       },
       "reason": "植物购买/打理类琐事，中性不给分"
+    },
+    {
+      "taskId": "6a9710f910f491177fcad4f4",
+      "completedAt": "2026-09-04T02:09:13+0000",
+      "title": "梦醒了",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 1
+      },
+      "reason": "记录并梳理梦境引发的强烈情绪，属情绪处理，精神加分。"
+    },
+    {
+      "taskId": "6a9630cdec5c110134d81a41",
+      "completedAt": "2026-09-04T07:54:26+0000",
+      "title": "加油",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题含义模糊且无内容，无法判断，不给分。"
+    },
+    {
+      "taskId": "6a9aa10eebae5a0000000f58",
+      "completedAt": "2026-09-04T11:13:08+0000",
+      "title": "新的私信",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动撰写并发出恋爱/相亲自我介绍私信，属社交与维护关系，魅力加分。"
+    },
+    {
+      "taskId": "6a9acdb9538e1184fd485060",
+      "completedAt": "2026-09-04T13:55:05+0000",
+      "title": "动感单车运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "有氧运动半小时，锻炼身体，体力加分。"
+    },
+    {
+      "taskId": "6a9ad3ef2dd4d184ff5bf179",
+      "completedAt": "2026-09-04T14:21:35+0000",
+      "title": "看书25分钟",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成阅读，属于学习输入，智力加分。"
     }
   ]
 }
