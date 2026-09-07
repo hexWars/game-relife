@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-07T05:03:00.192+08:00",
+  "updatedAt": "2026-09-08T05:55:39.506+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -34861,6 +34861,90 @@
         "spirit": 0
       },
       "reason": "完成五月私车公用油票核算与金额计算，属工作产出"
+    },
+    {
+      "taskId": "6a9e1bfe1d3e51394019105c",
+      "completedAt": "2026-09-07T02:05:50+0000",
+      "title": "写周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "撰写周报属工作复盘与写作产出，智力+1"
+    },
+    {
+      "taskId": "6a9d68d7ebae5a0000001643",
+      "completedAt": "2026-09-07T11:29:41+0000",
+      "title": "报销六月出差",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "出差报销属事务性操作，中性不给分"
+    },
+    {
+      "taskId": "6a9d68e2ebae5a000000164c",
+      "completedAt": "2026-09-07T11:38:47+0000",
+      "title": "报销七月出差",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "出差报销属事务性操作，中性不给分"
+    },
+    {
+      "taskId": "6a8302ddebae5a00000003d0",
+      "completedAt": "2026-09-07T11:45:51+0000",
+      "title": "六座车的发票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "车辆发票整理属日常报销琐事，无属性影响"
+    },
+    {
+      "taskId": "6a337bf89e5e913f57c55dbd",
+      "completedAt": "2026-09-07T11:45:54+0000",
+      "title": "午餐发票整理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "发票整理属日常事务性琐事，中性不给分"
+    },
+    {
+      "taskId": "6a3408b7ebdd9d0000000146",
+      "completedAt": "2026-09-07T11:45:54+0000",
+      "title": "发票整理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "发票整理属日常报销琐事，无属性成长"
+    },
+    {
+      "taskId": "6a3408abebdd9d0000000144",
+      "completedAt": "2026-09-07T11:45:54+0000",
+      "title": "两个酒店发票整理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "发票整理属日常事务性琐事，中性不给分"
     }
   ]
 }
