@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T05:33:55.239+08:00",
+  "updatedAt": "2026-09-10T05:30:18.762+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -34969,6 +34969,66 @@
         "spirit": 0
       },
       "reason": "报销事务，中性不给分"
+    },
+    {
+      "taskId": "6964f3898df0d101f18a83ad",
+      "completedAt": "2026-09-09T01:00:11+0000",
+      "title": "那个劣质名片盒的名片收集",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "收集整理名片属日常琐事，中性不给分"
+    },
+    {
+      "taskId": "6a7724fc713dd1072d758411",
+      "completedAt": "2026-09-09T08:18:57+0000",
+      "title": "花呗还款",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "例行还款，日常财务事务，不给分"
+    },
+    {
+      "taskId": "6aa106e4ebae5a0000001857",
+      "completedAt": "2026-09-09T14:19:10+0000",
+      "title": "退回的流程",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "处理被退回的工作流程并重新提交，属工作产出（与历史「退回流程」判定一致）"
+    },
+    {
+      "taskId": "6a749e37ebae5a00000004fc",
+      "completedAt": "2026-09-09T15:48:39+0000",
+      "title": "报销六月私车公用",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成六月私车公用油票核算与金额计算，属工作产出（与五月的私车公用判定一致）"
+    },
+    {
+      "taskId": "6a9d463fa2d311324db82771",
+      "completedAt": "2026-09-09T15:53:44+0000",
+      "title": "人事调休",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "办理人事调休属日常行政事务，中性不给分"
     }
   ]
 }
