@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T05:30:18.762+08:00",
+  "updatedAt": "2026-09-11T05:21:19.632+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35029,6 +35029,78 @@
         "spirit": 0
       },
       "reason": "办理人事调休属日常行政事务，中性不给分"
+    },
+    {
+      "taskId": "6aa22253ebae5a00000019bc",
+      "completedAt": "2026-09-10T04:16:46+0000",
+      "title": "《源泉》",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成《源泉》阅读任务，读书类，智力+1"
+    },
+    {
+      "taskId": "6aa2690bebae5a0000001a4f",
+      "completedAt": "2026-09-10T08:44:17+0000",
+      "title": "和中间商电话",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与中间商电话沟通维护关系，社交类，魅力+1"
+    },
+    {
+      "taskId": "6a91743b2ca0113b0c312506",
+      "completedAt": "2026-09-10T08:53:36+0000",
+      "title": "自律即命运",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅为一句自我提醒式记录，无明确行为，不给分"
+    },
+    {
+      "taskId": "6aa28fc3ebae5a0000001add",
+      "completedAt": "2026-09-10T11:08:51+0000",
+      "title": "更新博客每月读书/游玩记录",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "撰写博客读书记录，属写作产出，智力+1"
+    },
+    {
+      "taskId": "6aa2c67eebae5a0000001b26",
+      "completedAt": "2026-09-10T15:02:22+0000",
+      "title": "动感单车运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "动感单车运动半小时，体力+1"
+    },
+    {
+      "taskId": "6aa2c67febae5a0000001b28",
+      "completedAt": "2026-09-10T15:02:23+0000",
+      "title": "看书25分钟",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "阅读25分钟，属学习成长类，智力+1"
     }
   ]
 }
