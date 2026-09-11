@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T05:21:19.632+08:00",
+  "updatedAt": "2026-09-12T05:32:28.826+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35101,6 +35101,78 @@
         "spirit": 0
       },
       "reason": "阅读25分钟，属学习成长类，智力+1"
+    },
+    {
+      "taskId": "6aa35428ebae5a0000001bb4",
+      "completedAt": "2026-09-11T02:48:37+0000",
+      "title": "发给采购之后，理应让中间人知道进展",
+      "effects": {
+        "charm": 1,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动向中间人同步报价进展，既推进工作产出（智力 +1），也维护了合作关系（魅力 +1）"
+    },
+    {
+      "taskId": "6aa35752ebae5a0000001bc2",
+      "completedAt": "2026-09-11T02:48:39+0000",
+      "title": "报价单",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成对外报价单这一具体工作产出，智力 +1"
+    },
+    {
+      "taskId": "6aa35b58ebae5a0000001bcf",
+      "completedAt": "2026-09-11T06:14:33+0000",
+      "title": "拿红包",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "中性日常事项，无法判断属性影响，给 0"
+    },
+    {
+      "taskId": "6aa2c6a4ebae5a0000001b4e",
+      "completedAt": "2026-09-11T06:14:34+0000",
+      "title": "带耳机",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "出门携带物品的日常琐事，不予给分"
+    },
+    {
+      "taskId": "6aa2c6a0ebae5a0000001b4a",
+      "completedAt": "2026-09-11T06:14:34+0000",
+      "title": "带发泥",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "携带造型用品属于日常备忘，无实际形象维护行为，给 0"
+    },
+    {
+      "taskId": "6aa2c696ebae5a0000001b41",
+      "completedAt": "2026-09-11T06:14:36+0000",
+      "title": "带呼吸",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "出门携带物品的日常琐事，无明确成长或负面含义，按宁缺毋滥给 0"
     }
   ]
 }
