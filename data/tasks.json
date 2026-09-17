@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-17T05:52:01.124+08:00",
+  "updatedAt": "2026-09-18T05:52:57.675+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35353,6 +35353,30 @@
         "spirit": 0
       },
       "reason": "与欧总交流沟通，属维护关系/社交互动，魅力+1"
+    },
+    {
+      "taskId": "6aab5211ebae5a0000000050",
+      "completedAt": "2026-09-17T11:35:20+0800",
+      "title": "药物",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "按时吃药属于日常琐事，无明确成长或负面行为，按宁缺毋滥给 0"
+    },
+    {
+      "taskId": "6aac0a5bebae5a00000001ab",
+      "completedAt": "2026-09-17T23:42:19+0800",
+      "title": "动感单车运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "动感单车运动半小时，属于运动健身，体力+1"
     }
   ]
 }
