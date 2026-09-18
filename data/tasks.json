@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-18T05:52:57.675+08:00",
+  "updatedAt": "2026-09-19T05:24:40.115+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35377,6 +35377,102 @@
         "spirit": 0
       },
       "reason": "动感单车运动半小时，属于运动健身，体力+1"
+    },
+    {
+      "taskId": "6aacf504b2351151deb6301c",
+      "completedAt": "2026-09-18T20:34:35+0800",
+      "title": "博物学",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅有主题名词，无法确认是学习还是记录，宁缺毋滥不给分"
+    },
+    {
+      "taskId": "6aad2d48332ad15812b0d8e5",
+      "completedAt": "2026-09-18T20:34:37+0800",
+      "title": "1",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅保存一条链接的信息记录，无法判断实际行为，不给分"
+    },
+    {
+      "taskId": "6aacf2fd6bf81151deb62f57",
+      "completedAt": "2026-09-18T21:03:36+0800",
+      "title": "欧总请假",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "请假相关事务性记录，无法判断属性影响，不给分"
+    },
+    {
+      "taskId": "6aabb51ca8f2d13da2c51d75",
+      "completedAt": "2026-09-18T21:09:00+0800",
+      "title": "买黄油面包",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常采购琐事，中性不给分"
+    },
+    {
+      "taskId": "6aad45a55bec9158e8a47796",
+      "completedAt": "2026-09-18T22:48:51+0800",
+      "title": "测试",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "内容仅为数字串的测试条目，无实际产出，中性不给分"
+    },
+    {
+      "taskId": "6aa11230f0d6116ad2587358",
+      "completedAt": "2026-09-18T23:40:59+0800",
+      "title": "预购iPhone",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "计划内购物事务（提前9天建单），中性不给分"
+    },
+    {
+      "taskId": "6aad5be2ebae5a0000000468",
+      "completedAt": "2026-09-18T23:42:26+0800",
+      "title": "动感单车运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时动感单车有氧运动，属体育锻炼，体力+1（与历史同名任务判定一致）"
+    },
+    {
+      "taskId": "6aad5be3ebae5a000000046c",
+      "completedAt": "2026-09-18T23:42:27+0800",
+      "title": "看书25分钟",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "阅读25分钟，属学习输入，智力+1（与历史「看书25分钟」判定一致）"
     }
   ]
 }
