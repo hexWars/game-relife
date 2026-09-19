@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T05:24:40.115+08:00",
+  "updatedAt": "2026-09-20T05:15:04.454+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35473,6 +35473,42 @@
         "spirit": 0
       },
       "reason": "阅读25分钟，属学习输入，智力+1（与历史「看书25分钟」判定一致）"
+    },
+    {
+      "taskId": "6aad61c0b93c115d4ffff5b1",
+      "completedAt": "2026-09-19T00:54:10+0800",
+      "title": "象牙宫",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题含义不明（疑为植物相关），无法判断属性，不给分。"
+    },
+    {
+      "taskId": "6aadfe04b0b6515f22762392",
+      "completedAt": "2026-09-19T17:23:06+0800",
+      "title": "周一预约",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅记录一次预约事务，无法判断属性归属，不给分。"
+    },
+    {
+      "taskId": "6aae891eab19d16eea9a3e2d",
+      "completedAt": "2026-09-19T21:07:42+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "运动半小时，锻炼身体，体力加分。"
     }
   ]
 }
