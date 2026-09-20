@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T05:15:04.454+08:00",
+  "updatedAt": "2026-09-21T05:09:29.223+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35509,6 +35509,42 @@
         "spirit": 0
       },
       "reason": "运动半小时，锻炼身体，体力加分。"
+    },
+    {
+      "taskId": "6aaff8e1e5fdd18d04eed6dc",
+      "completedAt": "2026-09-20T23:16:49+0800",
+      "title": "写周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "写周报属于工作产出，智力+1"
+    },
+    {
+      "taskId": "6aae548a02e89167b431780f",
+      "completedAt": "2026-09-20T23:17:15+0800",
+      "title": "去深圳拿猴子",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与上一条重复的日常取物跑腿事务，无明确属性影响，不给分"
+    },
+    {
+      "taskId": "6aa79f85ebae5a000000026e",
+      "completedAt": "2026-09-20T23:17:17+0800",
+      "title": "去深圳拿密叶猴",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常取物跑腿事务，无明确成长或负面属性，不给分"
     }
   ]
 }
