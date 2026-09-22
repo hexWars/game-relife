@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T06:25:15.402+08:00",
+  "updatedAt": "2026-09-23T05:46:21.207+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35593,6 +35593,54 @@
         "spirit": 0
       },
       "reason": "个人媒体文件批量下载，属日常琐事，无法判断正负向影响"
+    },
+    {
+      "taskId": "6ab158f4e42111a34412c7a4",
+      "completedAt": "2026-09-22T00:19:00+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "运动半小时属锻炼，体力加分"
+    },
+    {
+      "taskId": "6ab14828ebae5a0000000802",
+      "completedAt": "2026-09-22T00:19:23+0800",
+      "title": "下载",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "内容为批量下载链接，属中性琐事，无法判定成长或明显负面，给 0"
+    },
+    {
+      "taskId": "6aae6022ebae5a00000004e9",
+      "completedAt": "2026-09-22T20:20:32+0800",
+      "title": "副市长",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题仅三个字且无内容，无法判断实际行为，按宁缺毋滥给 0"
+    },
+    {
+      "taskId": "6ab292a8ebae5a000000093b",
+      "completedAt": "2026-09-22T22:37:28+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "运动半小时属锻炼，体力加分"
     }
   ]
 }
