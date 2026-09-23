@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-23T05:46:21.207+08:00",
+  "updatedAt": "2026-09-24T05:59:33.538+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35641,6 +35641,18 @@
         "spirit": 0
       },
       "reason": "运动半小时属锻炼，体力加分"
+    },
+    {
+      "taskId": "6ab3cb848c1291c5c18d3032",
+      "completedAt": "2026-09-23T20:52:20+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时运动，属健身类积极行为，体力+1"
     }
   ]
 }
