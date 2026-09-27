@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-26T05:57:42.934+08:00",
+  "updatedAt": "2026-09-28T05:50:17.727+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35689,6 +35689,186 @@
         "spirit": 0
       },
       "reason": "日常家务（浇花），中性琐事，不给分"
+    },
+    {
+      "taskId": "6ab86f1baa0f51148f4581f7",
+      "completedAt": "2026-09-27T15:23:36+0800",
+      "title": "拿快递",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常跑腿琐事，不给分"
+    },
+    {
+      "taskId": "6ab8f18aebae5a0000000e2f",
+      "completedAt": "2026-09-27T18:35:56+0800",
+      "title": "一叶龟换土",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常养花照料琐事，不给分"
+    },
+    {
+      "taskId": "6ab8f190ebae5a0000000e3c",
+      "completedAt": "2026-09-27T18:36:04+0800",
+      "title": "洗衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，不给分"
+    },
+    {
+      "taskId": "6ab8f193ebae5a0000000e44",
+      "completedAt": "2026-09-27T18:36:06+0800",
+      "title": "晾衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，不给分"
+    },
+    {
+      "taskId": "6ab7f85e4c395111bb19cd2d",
+      "completedAt": "2026-09-27T18:39:41+0800",
+      "title": "力丰发票，逆天的停车82元",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "票据处理与停车费记录，中性事务不给分"
+    },
+    {
+      "taskId": "6aa540bdedf0d142f028d59e",
+      "completedAt": "2026-09-27T21:54:39+0800",
+      "title": "敬酒",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "应酬社交场合，计入魅力"
+    },
+    {
+      "taskId": "6aa8d43464f05105e7d841bd",
+      "completedAt": "2026-09-27T22:05:27+0800",
+      "title": "发票整理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常事务性整理，不给分"
+    },
+    {
+      "taskId": "6ab4a5bdebae5a0000000a4d",
+      "completedAt": "2026-09-27T22:05:58+0800",
+      "title": "水苔要买吗",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常采购决策琐事，不给分"
+    },
+    {
+      "taskId": "6ab7faaf85249111bb19cdf0",
+      "completedAt": "2026-09-27T22:13:49+0800",
+      "title": "印花税是什么",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动了解学习新知识，计入智力"
+    },
+    {
+      "taskId": "6ab8f14f167a9120765de3ca",
+      "completedAt": "2026-09-27T22:13:50+0800",
+      "title": "收衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，不给分"
+    },
+    {
+      "taskId": "6aae5a5cebae5a00000004d9",
+      "completedAt": "2026-09-27T22:13:53+0800",
+      "title": "尸变图鉴",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题含义不明，无法判断属性"
+    },
+    {
+      "taskId": "6ab926fbebae5a0000001068",
+      "completedAt": "2026-09-27T22:27:49+0800",
+      "title": "和文员讲清楚",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与人沟通协调事务，计入魅力"
+    },
+    {
+      "taskId": "6ab928a0ebae5a0000001078",
+      "completedAt": "2026-09-27T22:30:56+0800",
+      "title": "写周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作产出/写作，计入智力"
+    },
+    {
+      "taskId": "6ab8f15214bb1120765de3f8",
+      "completedAt": "2026-09-27T22:36:44+0800",
+      "title": "咸蛋黄",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题含义不明，无法判断属性"
+    },
+    {
+      "taskId": "6ab929ff85f411279f46104d",
+      "completedAt": "2026-09-27T22:36:47+0800",
+      "title": "写周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作产出/写作，计入智力"
     }
   ]
 }
