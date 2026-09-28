@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-28T05:50:17.727+08:00",
+  "updatedAt": "2026-09-29T07:38:55.995+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35869,6 +35869,126 @@
         "spirit": 0
       },
       "reason": "工作产出/写作，计入智力"
+    },
+    {
+      "taskId": "6ab9ae2db0c7512b0b1d9993",
+      "completedAt": "2026-09-28T10:44:57+0800",
+      "title": "买飞机票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常事务性采购，无明确属性影响"
+    },
+    {
+      "taskId": "6ab9d6cdeb9e9131d62391ec",
+      "completedAt": "2026-09-28T15:52:10+0800",
+      "title": "问中间商",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动跟进项目进展、确认拜访安排，属工作产出"
+    },
+    {
+      "taskId": "6aba2724cbb2513d898ee874",
+      "completedAt": "2026-09-28T19:09:01+0800",
+      "title": "排骨",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题含义不明，无法判断具体行为，给 0"
+    },
+    {
+      "taskId": "6ab9105eebae5a0000000f4b",
+      "completedAt": "2026-09-28T20:33:00+0800",
+      "title": "看看差多少的客户和商机",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "梳理客户与商机缺口，属工作复盘分析"
+    },
+    {
+      "taskId": "6ab9e1d0e19c1131d6239384",
+      "completedAt": "2026-09-28T20:50:05+0800",
+      "title": "确定交货期",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "推进并落实工作事项，属工作产出"
+    },
+    {
+      "taskId": "6aba19e6acbb513ad4e5b757",
+      "completedAt": "2026-09-28T20:56:51+0800",
+      "title": "逢人就说",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动与人交流表达，属社交行为"
+    },
+    {
+      "taskId": "6aba6d1cd52251448f030d69",
+      "completedAt": "2026-09-28T21:35:24+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时运动，属明确的体力锻炼"
+    },
+    {
+      "taskId": "6ab549ef9c6651e71b9428fd",
+      "completedAt": "2026-09-28T21:58:13+0800",
+      "title": "水苔拆板松紧",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "植物养护的日常小事，无法判断明确属性影响"
+    },
+    {
+      "taskId": "6aba6123ebae5a0000001109",
+      "completedAt": "2026-09-28T22:24:08+0800",
+      "title": "一叶龟换盆并且加入恶霉灵",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "养花日常照料，强度与属性关联弱，按宁缺毋滥给 0"
+    },
+    {
+      "taskId": "6ab928e0ebae5a0000001085",
+      "completedAt": "2026-09-28T22:46:30+0800",
+      "title": "山乌龟爬藤架（买一根爬绳就行，至少4m）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "买爬绳的日常采购琐事，无明显成长或负面属性"
     }
   ]
 }
