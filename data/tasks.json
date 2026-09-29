@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-29T07:38:55.995+08:00",
+  "updatedAt": "2026-09-30T06:49:19.036+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -35989,6 +35989,102 @@
         "spirit": 0
       },
       "reason": "买爬绳的日常采购琐事，无明显成长或负面属性"
+    },
+    {
+      "taskId": "6abb26eef329114bb30b1012",
+      "completedAt": "2026-09-29T10:48:19+0800",
+      "title": "洗衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，不给分"
+    },
+    {
+      "taskId": "6aba6337ebae5a0000001147",
+      "completedAt": "2026-09-29T11:22:56+0800",
+      "title": "参展的信息说明",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "整理并确认展会信息，属于工作产出，智力+1"
+    },
+    {
+      "taskId": "6abb2019564b514af20eff88",
+      "completedAt": "2026-09-29T11:22:58+0800",
+      "title": "我妈的这个大姐家的发票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "代办的发票琐事，不给分"
+    },
+    {
+      "taskId": "6aba727eebae5a0000001235",
+      "completedAt": "2026-09-29T13:46:09+0800",
+      "title": "鹿角蕨重新上板",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常园艺打理，属琐事，不给分"
+    },
+    {
+      "taskId": "6abb26f1e2c6914bb30b1044",
+      "completedAt": "2026-09-29T18:11:38+0800",
+      "title": "晾衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，不给分"
+    },
+    {
+      "taskId": "6aba4add85be9141ae7222a4",
+      "completedAt": "2026-09-29T22:39:51+0800",
+      "title": "差3个客户",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "梳理客户缺口名单，属于工作产出，智力+1"
+    },
+    {
+      "taskId": "6aba4ae76c255141ae7222d4",
+      "completedAt": "2026-09-29T23:01:57+0800",
+      "title": "差9个商机",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "梳理销售商机缺口，属于工作产出，智力+1"
+    },
+    {
+      "taskId": "6abbd2f9ebae5a0000001461",
+      "completedAt": "2026-09-29T23:02:17+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时运动，属于健身锻炼，体力+1"
     }
   ]
 }
