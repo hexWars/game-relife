@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-30T06:49:19.036+08:00",
+  "updatedAt": "2026-10-01T06:47:59.444+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -36085,6 +36085,90 @@
         "spirit": 0
       },
       "reason": "完成半小时运动，属于健身锻炼，体力+1"
+    },
+    {
+      "taskId": "6abbe4e736cf1103d96bbec9",
+      "completedAt": "2026-09-30T08:52:35+0800",
+      "title": "除湿剂",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "采购日用品的琐事，无明确属性影响，全 0。"
+    },
+    {
+      "taskId": "6abb8ed79b84d1586c3804a6",
+      "completedAt": "2026-09-30T08:52:43+0800",
+      "title": "和刘哥确定一下是不是16号的返程票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "确认行程的事务性沟通，非学习或工作产出，全 0。"
+    },
+    {
+      "taskId": "6abb200ceb8fd14af20eff56",
+      "completedAt": "2026-09-30T09:27:25+0800",
+      "title": "拿我爸妈的快递",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "帮家人取快递的日常琐事，按宁缺毋滥原则全 0。"
+    },
+    {
+      "taskId": "6abc665d9d2a51087ad27833",
+      "completedAt": "2026-09-30T09:31:11+0800",
+      "title": "刘哥买票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "委托买票的事务性待办，不属于明确的能力或社交成长，全 0。"
+    },
+    {
+      "taskId": "6ab8f4c3ebae5a0000000eab",
+      "completedAt": "2026-09-30T09:31:20+0800",
+      "title": "苦苔科怎么样（看看外面有小盆的吧",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "看植物的生活琐事，信息不足以判定属性，全 0。"
+    },
+    {
+      "taskId": "6abbcdc2f6489103d96bbc43",
+      "completedAt": "2026-09-30T23:41:46+0800",
+      "title": "把裤子洗一下",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，无明确属性影响，全 0。"
+    },
+    {
+      "taskId": "6abd2dbbebae5a00000014fd",
+      "completedAt": "2026-09-30T23:41:47+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时运动，属于锻炼身体的积极行为，体力+1。"
     }
   ]
 }
