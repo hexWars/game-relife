@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-01T06:47:59.444+08:00",
+  "updatedAt": "2026-10-02T06:59:52.534+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -36169,6 +36169,102 @@
         "spirit": 0
       },
       "reason": "完成半小时运动，属于锻炼身体的积极行为，体力+1。"
+    },
+    {
+      "taskId": "6abc66729d6311087ad278a4",
+      "completedAt": "2026-10-01T18:01:56+0800",
+      "title": "苦台科植物换盆阳台有小盆",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "苦苔科植物换盆的日常园艺照料，与历史养花类任务一致不给分"
+    },
+    {
+      "taskId": "6abdbdceebae5a0000001586",
+      "completedAt": "2026-10-01T18:01:57+0800",
+      "title": "浇水",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常浇花家务，与历史「浇花」任务一致中性不给分"
+    },
+    {
+      "taskId": "6abdbdd3ebae5a000000158b",
+      "completedAt": "2026-10-01T18:01:58+0800",
+      "title": "小黑方换成盆（4颗花烛）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "给花烛换盆的日常园艺打理，与历史换盆类任务一致不给分"
+    },
+    {
+      "taskId": "6abdbddcebae5a0000001590",
+      "completedAt": "2026-10-01T18:01:59+0800",
+      "title": "一个种球试着种植",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "种植尝试属日常园艺琐事，无法明确对应属性，不给分"
+    },
+    {
+      "taskId": "6abdbe00ebae5a00000015a2",
+      "completedAt": "2026-10-01T18:02:00+0800",
+      "title": "血腥玛丽换成陶瓷大盆（分辨一下打药）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "换盆与打药的日常园艺照料，与历史同类任务一致不给分"
+    },
+    {
+      "taskId": "6abdbe58ebae5a00000015b6",
+      "completedAt": "2026-10-01T18:08:43+0800",
+      "title": "录入app系统",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "常规数据录入事务，信息不足以判定为学习或工作产出，不给分"
+    },
+    {
+      "taskId": "6abdbdc8ebae5a000000157a",
+      "completedAt": "2026-10-01T18:08:45+0800",
+      "title": "植物打理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "植物日常照料总任务，属生活琐事，与历史养花类任务一致给 0"
+    },
+    {
+      "taskId": "6a831a90ebae5a0000000507",
+      "completedAt": "2026-10-01T23:04:44+0800",
+      "title": "问一下人事这个工资的事情",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "向人事询问社保缴纳基数属个人行政事务，与历史「人事调休」「问一下…」类任务一致，中性不给分"
     }
   ]
 }
