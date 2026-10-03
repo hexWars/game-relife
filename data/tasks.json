@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-03T06:48:10.708+08:00",
+  "updatedAt": "2026-10-04T05:58:27.405+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -36325,6 +36325,66 @@
         "spirit": 0
       },
       "reason": "日常安全琐事，无属性影响"
+    },
+    {
+      "taskId": "6ac0e227ebae5a0000000285",
+      "completedAt": "2026-10-03T20:00:25+0800",
+      "title": "八点抽奖",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "定时抽奖提醒，属日常中性事务，不给分"
+    },
+    {
+      "taskId": "6ac0e235ebae5a0000000294",
+      "completedAt": "2026-10-03T21:00:05+0800",
+      "title": "九点抽奖",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "定时抽奖提醒，属日常中性事务，不给分"
+    },
+    {
+      "taskId": "6ac0e2e3ebae5a00000002eb",
+      "completedAt": "2026-10-03T21:52:41+0800",
+      "title": "出门倒垃圾",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "倒垃圾属日常家务，与既有同类任务判定一致，不给分"
+    },
+    {
+      "taskId": "6ac0e240ebae5a00000002a0",
+      "completedAt": "2026-10-03T22:00:03+0800",
+      "title": "十点抽奖",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "定时抽奖提醒，属日常中性事务，不给分"
+    },
+    {
+      "taskId": "6ac0e251ebae5a00000002ad",
+      "completedAt": "2026-10-03T23:11:03+0800",
+      "title": "十一点抽奖",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "定时抽奖提醒，属日常中性事务，不给分"
     }
   ]
 }
