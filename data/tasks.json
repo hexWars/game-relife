@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-04T05:58:27.405+08:00",
+  "updatedAt": "2026-10-05T06:11:09.966+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -36385,6 +36385,54 @@
         "spirit": 0
       },
       "reason": "定时抽奖提醒，属日常中性事务，不给分"
+    },
+    {
+      "taskId": "6ac0e25febae5a00000002ba",
+      "completedAt": "2026-10-04T00:00:07+0800",
+      "title": "12点抽奖",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "准点抽奖属日常琐事，中性，不给分"
+    },
+    {
+      "taskId": "6ac12752ebae5a00000003e9",
+      "completedAt": "2026-10-04T00:03:30+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时运动，+体力"
+    },
+    {
+      "taskId": "6abfb98bebae5a0000000186",
+      "completedAt": "2026-10-04T10:11:26+0800",
+      "title": "直播拆侧芽",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "直播属于公开表达，+魅力"
+    },
+    {
+      "taskId": "6ac138045152511e1b74b709",
+      "completedAt": "2026-10-04T12:58:14+0800",
+      "title": "和我爸妈说一下那个陈伟凡要借车，然后要走的时候呢，要叫他还",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与父母交代借车归还的日常沟通事务，中性，不给分"
     }
   ]
 }
