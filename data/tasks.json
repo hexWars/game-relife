@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-05T06:11:09.966+08:00",
+  "updatedAt": "2026-10-06T08:34:10.007+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -36433,6 +36433,90 @@
         "spirit": 0
       },
       "reason": "与父母交代借车归还的日常沟通事务，中性，不给分"
+    },
+    {
+      "taskId": "6aabb52139a1913da2c51da2",
+      "completedAt": "2026-10-05T00:58:58+0800",
+      "title": "买花烛手办车载",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "购买车载饰品，与历史手办模型类任务一致属中性消费不给分。"
+    },
+    {
+      "taskId": "6ac31763ebae5a00000005be",
+      "completedAt": "2026-10-05T11:20:03+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常园艺照料，与历史浇水/植物打理类任务一致中性不给分。"
+    },
+    {
+      "taskId": "6ac308cdebae5a000000058a",
+      "completedAt": "2026-10-05T11:20:10+0800",
+      "title": "洗衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "洗衣服属日常家务琐事，中性不给分。"
+    },
+    {
+      "taskId": "6abc66650ebc11087ad2786a",
+      "completedAt": "2026-10-05T11:50:12+0800",
+      "title": "刘哥说买票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "委托买票的事务性待办，无明确能力或社交成长，全 0。"
+    },
+    {
+      "taskId": "6ac308fdebae5a00000005a7",
+      "completedAt": "2026-10-05T12:45:38+0800",
+      "title": "晾晒衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "晾衣服属日常家务琐事，中性不给分。"
+    },
+    {
+      "taskId": "6ac3b9ac7a73514b124d6dd6",
+      "completedAt": "2026-10-05T22:52:28+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "运动半小时锻炼身体，体力 +1，与历史同名任务判定一致。"
+    },
+    {
+      "taskId": "6abd2e18ebae5a000000152d",
+      "completedAt": "2026-10-05T22:52:45+0800",
+      "title": "规划去哪里玩",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "休闲出游的计划安排，不属于学习/工作产出类成长，按宁缺毋滥原则全 0。"
     }
   ]
 }
