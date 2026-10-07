@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-06T08:34:10.007+08:00",
+  "updatedAt": "2026-10-08T07:27:49.670+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -36517,6 +36517,222 @@
         "spirit": 0
       },
       "reason": "休闲出游的计划安排，不属于学习/工作产出类成长，按宁缺毋滥原则全 0。"
+    },
+    {
+      "taskId": "6ac5b209ebae5a0000000748",
+      "completedAt": "2026-10-07T10:44:30+0800",
+      "title": "洗衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常洗衣家务，与历史同类任务判定一致不给分"
+    },
+    {
+      "taskId": "6ac5b20cebae5a000000074a",
+      "completedAt": "2026-10-07T12:22:19+0800",
+      "title": "晾晒衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "晾晒衣服属日常家务琐事，中性不给分"
+    },
+    {
+      "taskId": "6ac5c907c88a115f15c3e9e2",
+      "completedAt": "2026-10-07T12:54:32+0800",
+      "title": "煮饭",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "做饭属体力相关的自理行为，与历史煮饭判定一致"
+    },
+    {
+      "taskId": "6ac5b6643ebd515f15c3e85c",
+      "completedAt": "2026-10-07T13:24:07+0800",
+      "title": "洗碗",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "洗碗属日常家务，与历史同类任务判定一致不给分"
+    },
+    {
+      "taskId": "6ac5c974ec8c915f15c3ea2a",
+      "completedAt": "2026-10-07T15:10:50+0800",
+      "title": "山乌龟，长藤藤蔓",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "植物生长状态记录，属日常琐事，不给分"
+    },
+    {
+      "taskId": "6ac3b53b7a76514b124d6d10",
+      "completedAt": "2026-10-07T15:23:38+0800",
+      "title": "问一下老家那个金樽说的是什么",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "单纯询问信息的中性事务，无法判断属性，不给分"
+    },
+    {
+      "taskId": "6ac5f386ebae5a00000007f7",
+      "completedAt": "2026-10-07T15:23:50+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常园艺照料，与历史花草养护/植物打理类任务一致中性不给分"
+    },
+    {
+      "taskId": "6ac52b27434fd15ca2010933",
+      "completedAt": "2026-10-07T15:46:05+0800",
+      "title": "吃水果",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "吃水果属日常饮食，与历史判定一致不给分"
+    },
+    {
+      "taskId": "6ac5f381ebae5a00000007ec",
+      "completedAt": "2026-10-07T15:46:08+0800",
+      "title": "检察金墩的事情",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "事项表述含糊，无法判断具体属性，宁缺毋滥不给分"
+    },
+    {
+      "taskId": "6abf1b2cebae5a0000000161",
+      "completedAt": "2026-10-07T15:52:50+0800",
+      "title": "和爷爷打电话",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "给爷爷打电话，维护家人关系，与历史同类任务判定一致"
+    },
+    {
+      "taskId": "6ac5d92640c1115f15c3ec74",
+      "completedAt": "2026-10-07T17:22:27+0800",
+      "title": "热植柜尺寸",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "计算并确定热植柜尺寸，属技术计算产出，与历史「外型尺寸图」一致"
+    },
+    {
+      "taskId": "6ac5f8cdebae5a00000008a0",
+      "completedAt": "2026-10-07T19:03:57+0800",
+      "title": "金墩的发补贴的事情",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "处理补贴申领事务，属事务性工作产出，与历史补贴类任务判定一致"
+    },
+    {
+      "taskId": "6ac273dfebae5a0000000484",
+      "completedAt": "2026-10-07T22:01:18+0800",
+      "title": "热植柜",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "产出完整的热植柜 DIY 技术方案，属方案设计与工作产出"
+    },
+    {
+      "taskId": "6ac5fa2debae5a00000008be",
+      "completedAt": "2026-10-07T22:55:22+0800",
+      "title": "问爸妈啥时候去广东和昆山",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与父母沟通行程安排，维系家人关系，魅力加分"
+    },
+    {
+      "taskId": "6ac65d66ebae5a0000000111",
+      "completedAt": "2026-10-07T22:55:36+0800",
+      "title": "热植柜思考",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "对热植柜方案进行思考设计，属思考梳理，智力加分"
+    },
+    {
+      "taskId": "6ac66066ebae5a000000013a",
+      "completedAt": "2026-10-07T23:08:28+0800",
+      "title": "固态资源整理",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "整理固态资源，属信息资源梳理产出，与历史「整理star库」一致"
+    },
+    {
+      "taskId": "6ac50c2cebae5a00000006dc",
+      "completedAt": "2026-10-07T23:24:28+0800",
+      "title": "欧总说要检查",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅是记录老板要检查的提醒事项，无实际产出，中性不给分"
+    },
+    {
+      "taskId": "6abf1b22ebae5a0000000155",
+      "completedAt": "2026-10-07T23:27:39+0800",
+      "title": "和上海奶奶打电话",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "给上海奶奶打电话，维护亲情关系，与历史「和爷爷奶奶打电话」判定一致"
     }
   ]
 }
