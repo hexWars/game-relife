@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-08T07:27:49.670+08:00",
+  "updatedAt": "2026-10-09T07:39:04.431+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -36733,6 +36733,162 @@
         "spirit": 0
       },
       "reason": "给上海奶奶打电话，维护亲情关系，与历史「和爷爷奶奶打电话」判定一致"
+    },
+    {
+      "taskId": "6ac66437ebae5a0000000162",
+      "completedAt": "2026-10-08T11:29:36+0800",
+      "title": "和沙姐看一下巨多问题",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动排查合同霸王条款问题并同步同事一起跟进，属工作产出与推进"
+    },
+    {
+      "taskId": "6ac664f9ebae5a00000001fa",
+      "completedAt": "2026-10-08T14:48:07+0800",
+      "title": "和我爸妈说明电话打不通",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常告知类沟通，中性，不给分"
+    },
+    {
+      "taskId": "6ac7133febae5a0000000081",
+      "completedAt": "2026-10-08T14:49:25+0800",
+      "title": "和我爸确认欧总的信息，到底选配问题",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "事务性信息确认，中性，不给分"
+    },
+    {
+      "taskId": "6ac31e82ebae5a00000005e0",
+      "completedAt": "2026-10-08T15:06:09+0800",
+      "title": "和周总乔总确定一下晚上的票还是下午的票合适",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "单次行程时间协调，事务性，不给分"
+    },
+    {
+      "taskId": "6ac73362ebae5a00000000a7",
+      "completedAt": "2026-10-08T17:00:24+0800",
+      "title": "合同的疑问之处",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "系统梳理多份合同的违约金、保密、质保等风险条款并逐条记录，属实质性工作产出与复盘"
+    },
+    {
+      "taskId": "6ac52347fa13d15ca201086f",
+      "completedAt": "2026-10-08T17:03:17+0800",
+      "title": "约那个采购吗",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "单次事务性确认，信息不足，不给分"
+    },
+    {
+      "taskId": "6ac77aa7ebae5a00000003ad",
+      "completedAt": "2026-10-08T20:59:05+0800",
+      "title": "八点活性抽奖",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "看直播抽奖类重复提醒任务，中性，不给分"
+    },
+    {
+      "taskId": "6abfb9a4ebae5a0000000195",
+      "completedAt": "2026-10-08T20:59:06+0800",
+      "title": "直播抽奖钻石盾侧芽",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "直播抽奖提醒，中性，不给分"
+    },
+    {
+      "taskId": "6ac77ab8ebae5a00000003b9",
+      "completedAt": "2026-10-08T20:59:09+0800",
+      "title": "九点活性抽奖",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "看直播抽奖类重复提醒任务，中性，不给分"
+    },
+    {
+      "taskId": "6ac77abcebae5a00000003be",
+      "completedAt": "2026-10-08T21:59:07+0800",
+      "title": "十点活性抽奖",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "看直播抽奖类重复提醒任务，中性，不给分"
+    },
+    {
+      "taskId": "6ac781c8ebae5a00000003e3",
+      "completedAt": "2026-10-08T22:59:53+0800",
+      "title": "倒垃圾",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常琐事，不给分"
+    },
+    {
+      "taskId": "6ac77a9debae5a00000003a5",
+      "completedAt": "2026-10-08T23:41:43+0800",
+      "title": "十一点活性抽奖",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "看直播抽奖类重复提醒任务，中性，不给分"
+    },
+    {
+      "taskId": "6ac7baadebae5a000000044f",
+      "completedAt": "2026-10-08T23:45:49+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，无明确成长或负面含义，不给分"
     }
   ]
 }
