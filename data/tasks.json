@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T07:39:04.431+08:00",
+  "updatedAt": "2026-10-10T07:01:29.306+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -36889,6 +36889,78 @@
         "spirit": 0
       },
       "reason": "日常家务琐事，无明确成长或负面含义，不给分"
+    },
+    {
+      "taskId": "6ac876405962517c39ef47ce",
+      "completedAt": "2026-10-09T17:53:31+0800",
+      "title": "床铺好",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "铺床属日常起居琐事，与历史整理被子类任务一致不给分"
+    },
+    {
+      "taskId": "6ac8763c44acd17c39ef479c",
+      "completedAt": "2026-10-09T17:53:32+0800",
+      "title": "洗干净茶具",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "清洗茶具属日常家务琐事，中性不给分"
+    },
+    {
+      "taskId": "6ac76d34ebae5a000000037e",
+      "completedAt": "2026-10-09T17:53:33+0800",
+      "title": "整理床上的衣服",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "整理衣物属日常家务琐事，与历史整理衣物被子类任务一致不给分"
+    },
+    {
+      "taskId": "6ac73b83ebae5a000000014b",
+      "completedAt": "2026-10-09T17:53:34+0800",
+      "title": "煮红薯粥",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "做饭属体力相关的自理行为，与历史煮饭/煮鸡蛋判定一致"
+    },
+    {
+      "taskId": "6ac76d2eebae5a0000000379",
+      "completedAt": "2026-10-09T17:53:34+0800",
+      "title": "打扫卫生",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "打扫卫生属日常家务，与历史同类任务判定一致不给分"
+    },
+    {
+      "taskId": "6ac8b9a3bbdc5181a8f05d07",
+      "completedAt": "2026-10-09T17:53:39+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常园艺照料，与历史花草养护/浇水类任务判定一致，中性不给分"
     }
   ]
 }
