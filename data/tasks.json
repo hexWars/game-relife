@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-12T06:39:50.079+08:00",
+  "updatedAt": "2026-10-13T09:06:00.914+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37009,6 +37009,18 @@
         "spirit": 0
       },
       "reason": "完成半小时运动，锻炼身体，体力加分。"
+    },
+    {
+      "taskId": "6acb9674e8a8d1ae81bcd753",
+      "completedAt": "2026-10-12T09:37:49+0800",
+      "title": "周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成周报属于工作产出，计入智力 +1"
     }
   ]
 }
