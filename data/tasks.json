@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-13T09:06:00.914+08:00",
+  "updatedAt": "2026-10-14T07:11:36.118+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37021,6 +37021,18 @@
         "spirit": 0
       },
       "reason": "完成周报属于工作产出，计入智力 +1"
+    },
+    {
+      "taskId": "6acddc9e727e11d10f7c8225",
+      "completedAt": "2026-10-13T15:29:52+0800",
+      "title": "偉杰",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题仅为人名，无动作与内容说明，无法判断具体行为，按宁缺毋滥给 0 分"
     }
   ]
 }
