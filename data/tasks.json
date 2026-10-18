@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-18T05:12:18.452+08:00",
+  "updatedAt": "2026-10-19T05:14:00.857+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37057,6 +37057,30 @@
         "spirit": 0
       },
       "reason": "内容为领取/打卡类日常琐事，无法明确判断成长或负面倾向，按规则给 0 分"
+    },
+    {
+      "taskId": "6ad4d0f231319151c6ac6940",
+      "completedAt": "2026-10-18T23:46:28+0800",
+      "title": "周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成周报，属于工作产出，智力+1"
+    },
+    {
+      "taskId": "6ad4e9d6d9df9152a9f21534",
+      "completedAt": "2026-10-18T23:46:30+0800",
+      "title": "写周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成工作周报撰写，属于工作产出，智力+1"
     }
   ]
 }
