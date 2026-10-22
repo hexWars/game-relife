@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-22T06:04:18.647+08:00",
+  "updatedAt": "2026-10-23T06:03:37.651+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37201,6 +37201,150 @@
         "spirit": 0
       },
       "reason": "只是未来的行程提醒，未体现具体成长行为，给 0 分"
+    },
+    {
+      "taskId": "6ac8b9968c329181a8f05cb7",
+      "completedAt": "2026-10-22T17:59:00+0800",
+      "title": "女团花烛回复",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "单次事务性回复，信息不足以判断社交或成长价值，不给分"
+    },
+    {
+      "taskId": "6ad9ec08ebae5a00000002bb",
+      "completedAt": "2026-10-22T19:06:11+0800",
+      "title": "图片录入植物app",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "重复性信息录入，属日常琐事，不给分"
+    },
+    {
+      "taskId": "6ace1e5fe47c11daf6a634d0",
+      "completedAt": "2026-10-22T19:07:07+0800",
+      "title": "昆山2k发票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "发票处理属常规事务性工作，无明确属性映射，不给分"
+    },
+    {
+      "taskId": "6ad9e3eae0a8510d75c41270",
+      "completedAt": "2026-10-22T19:09:43+0800",
+      "title": "我妈保险续费",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "家庭事务性缴费，属日常琐事，不给分"
+    },
+    {
+      "taskId": "6ad9ddaaebae5a00000000e4",
+      "completedAt": "2026-10-22T19:11:30+0800",
+      "title": "这个不在力丰什么情况",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "信息不足的状态询问，无法明确判断具体行为，按宁缺毋滥给 0 分"
+    },
+    {
+      "taskId": "6ad9dd66ebae5a00000000dd",
+      "completedAt": "2026-10-22T19:11:52+0800",
+      "title": "刘哥说沪光和莱尔德他跟，这个况总的我来跟",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅记录工作分工的备注，未体现具体行为，不给分"
+    },
+    {
+      "taskId": "6ad9e901ebae5a00000001ea",
+      "completedAt": "2026-10-22T19:26:31+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "浇水施肥等实际体力劳作，与 10-21 同类任务判定一致，体力 +1"
+    },
+    {
+      "taskId": "6ad9dd45ebae5a00000000d8",
+      "completedAt": "2026-10-22T19:26:54+0800",
+      "title": "刘哥叫我问欧总报价没有",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "单次报价跟进的事务性沟通，与历史同类催办类任务一致，不给分"
+    },
+    {
+      "taskId": "6ad9dd34ebae5a00000000d0",
+      "completedAt": "2026-10-22T19:27:04+0800",
+      "title": "我爸这个给沪光的金额",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "事务性金额核对，中性信息确认，不给分"
+    },
+    {
+      "taskId": "6ada0c15ebae5a00000003a0",
+      "completedAt": "2026-10-22T21:14:08+0800",
+      "title": "风扇采购 26*4=104",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "常规采购事务，属日常琐事，不给分"
+    },
+    {
+      "taskId": "6ada0c18ebae5a00000003a2",
+      "completedAt": "2026-10-22T21:14:09+0800",
+      "title": "pwm采购 35.9",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "常规采购事务，无明确成长或负面含义，按宁缺毋滥不给分"
+    },
+    {
+      "taskId": "6ad62e71701e9161aa14da2e",
+      "completedAt": "2026-10-22T21:19:06+0800",
+      "title": "高康的意思是不用管有没有用先认识来再说多跑一跑，近视的人多了就懂了",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动多认识人、拓展社交圈，属于维护关系与人际拓展，魅力 +1"
     }
   ]
 }
