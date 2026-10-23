@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-23T06:03:37.651+08:00",
+  "updatedAt": "2026-10-24T05:49:26.149+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37345,6 +37345,54 @@
         "spirit": 0
       },
       "reason": "主动多认识人、拓展社交圈，属于维护关系与人际拓展，魅力 +1"
+    },
+    {
+      "taskId": "6adacf9bebae5a000000049d",
+      "completedAt": "2026-10-23T11:10:50+0800",
+      "title": "和蔡总沟通",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与客户蔡总沟通涨价方案并维护长期合作意向，属客户关系维护，魅力 +1"
+    },
+    {
+      "taskId": "6adb0e0debae5a000000058f",
+      "completedAt": "2026-10-23T15:47:48+0800",
+      "title": "和欧总说明，沟通的价格，并且告知欧总合同模板问题",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "向欧总说明价格并与客户沟通价格、同步合同模板问题，属商务推进的工作产出，智力 +1"
+    },
+    {
+      "taskId": "6adb0d15ebae5a0000000546",
+      "completedAt": "2026-10-23T15:47:50+0800",
+      "title": "汇报给欧总，山田的合同需要尽量使用山田的模板，不然流程会很长",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "向欧总汇报合同模板的实务要求以避免流程拖长，属推进业务的实质性工作产出，智力 +1"
+    },
+    {
+      "taskId": "6adb0db1ebae5a0000000587",
+      "completedAt": "2026-10-23T15:47:58+0800",
+      "title": "问刘君，报价单之后是不是有一个合同要签订",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "单次合同流程问询，属事务性沟通，无实质产出，按宁缺毋滥不给分"
     }
   ]
 }
