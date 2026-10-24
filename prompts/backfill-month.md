@@ -24,4 +24,8 @@ Read `{{OUTFILE}}`。按 classify-rules.md 的规则，为每条任务判定 `ef
 ## 4. 校验
 Bash 执行 `node -e "JSON.parse(require('fs').readFileSync('{{OUTFILE}}','utf8'))"`。
 
+## 5. 七日无成长扣分（不由你处理）
+「某属性连续 7 个自然日没有加分 → 当日该属性 -1」由 `scripts/penalty.mjs`
+在回填结束后确定性重算，**不要**在本文件里生成扣分记录。
+
 只允许写 `{{OUTFILE}}` 这一个文件。**严禁编造任务或属性；拉取失败时如实报告并保留原样。**

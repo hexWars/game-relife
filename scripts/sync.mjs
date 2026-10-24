@@ -8,6 +8,7 @@
  */
 import { readFileSync } from 'node:fs';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 import { runClaude } from './lib/run-claude.mjs';
 
 const ROOT = process.cwd();
@@ -17,5 +18,10 @@ const { mkdirSync } = await import('node:fs');
 mkdirSync(path.join(ROOT, 'data', '.cache'), { recursive: true });
 
 const prompt = readFileSync(path.join(ROOT, 'prompts', 'sync-week.md'), 'utf8');
-runClaude(prompt);
-console.log('✓ 每日同步流程结束');
+try {
+  runClaude(prompt);
+  console.log('✓ 每日同步流程结束');
+} finally {
+  // 无论 AI 同步是否成功，都按 tasks.json 的最新数据重算七日无成长扣分
+  execFileSync(process.execPath, ['scripts/penalty.mjs'], { stdio: 'inherit', cwd: ROOT });
+}

@@ -42,12 +42,18 @@ npm run sync       # 每日增量：把「昨天」完成的任务 AI 判定后�
     → 拉近 7 天已完成任务（容错窗口）
     → 只保留「昨天」完成且 tasks.json 里还没有的（按 taskId 去重）
     → AI 判定属性 → 并入 data/tasks.json
+    → scripts/penalty.mjs 重算七日无成长扣分
 
 面板 ← deriveStats(tasks.json)  ← 汇总每任务 effects → 点数 / 等级 / 每日记录
 ```
 
 AI 判定规则见 `prompts/classify-rules.md`：每任务最多影响 2 个属性、每个 ±1、
 明显负面行为（熬夜/拖延等）扣分、拿不准给 0（宁缺毋滥）。
+
+**七日无成长扣分**：对每个属性独立判定，若某天往前 7 个自然日（含当天）该属性
+没有任何加分，则当天该属性 -1。规则从 **2026-10-23** 起生效，由
+`scripts/penalty.mjs` 确定性重算并写入 `data/tasks.json`（taskId 以 `penalty-`
+开头）；每日同步和回填结束后都会自动执行，AI 不参与生成扣分。
 
 ## 等级规则
 
@@ -89,6 +95,7 @@ scripts/
   backfill.mjs                        # 一次性回填入口
   filter-new.mjs                      # 筛选(昨日)+去重（确定性部分）
   merge.mjs                           # 合并分类结果进 tasks.json
+  penalty.mjs                         # 七日无成长扣分（确定性重算）
   lib/run-claude.mjs                  # 生成临时 MCP 配置并跑 claude -p
 data/
   tasks.json                          # 主数据：AI 判定的每任务影响（必须提交）

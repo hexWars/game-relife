@@ -42,13 +42,23 @@ node scripts/merge.mjs --classified data/.cache/classified.json
 ```
 脚本会把结果合并进 `data/tasks.json`（按 taskId 去重，`updatedAt` 更新为北京时间 ISO）。
 
-## 6. 校验
+## 6. 七日无成长扣分（脚本完成）
+Bash 执行：
+```
+node scripts/penalty.mjs
+```
+脚本按「任一属性连续 7 个自然日没有任何加分 → 当日该属性 -1」的规则重算，
+写入 taskId 以 `penalty-` 开头的合成记录，评估到北京时间昨天。规则是确定性的，
+**禁止 AI 自行添加扣分记录**。
+
+## 7. 校验
 Bash 执行：
 ```
 node -e "JSON.parse(require('fs').readFileSync('data/tasks.json','utf8'))"
 ```
 
-## 7. 输出摘要
+## 8. 输出摘要
 - 昨日新增任务 N 个
+- 七日无成长扣分：脚本输出的扣分天数与各属性合计
 - 各属性当前累计点数（魅力 / 智力 / 体力 / 精神）
 - 拉取或脚本报错时如实说明，**严禁编造**。

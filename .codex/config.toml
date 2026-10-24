@@ -1,0 +1,5 @@
+[shell_environment_policy]
+inherit = "core"
+
+[shell_environment_policy.set]
+DIDA_MCP_TOKEN = "dp_8a7adcdf020a4700b6f7a10aab3bb7d8"

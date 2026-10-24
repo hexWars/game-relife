@@ -82,3 +82,6 @@ while (y < today.getUTCFullYear() || (y === today.getUTCFullYear() && m <= today
 console.log(`\n回填完成，共处理 ${processed} 个块。`);
 const tasks = JSON.parse(readFileSync(path.join(ROOT, 'data', 'tasks.json'), 'utf8'));
 console.log(`data/tasks.json 现有 ${tasks.tasks.length} 条任务记录。`);
+
+// 回填可能改变了生效起始日之后的加分记录，重算七日无成长扣分
+execSync('node scripts/penalty.mjs', { stdio: 'inherit', cwd: ROOT });

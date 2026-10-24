@@ -16,6 +16,7 @@ export default function AttributeCard({ attr, points, yesterday, active, onClick
   const gainedInLevel = points - currentThreshold; // 本级内已获得
   const levelSpan = nextThreshold - currentThreshold; // 本级跨度
   const toNextLevel = nextThreshold - points; // 距下一级还差
+  const yesterdayText = yesterday > 0 ? `+${yesterday}` : `${yesterday}`;
 
   return (
     <button
@@ -62,8 +63,11 @@ export default function AttributeCard({ attr, points, yesterday, active, onClick
           <div className="mt-2 text-[11px] uppercase tracking-[0.25em] text-neutral-400">累计点数</div>
         </div>
         <div className="text-right text-xs">
-          <div className="font-semibold tabular-nums" style={{ color: attr.color }}>
-            昨日 +{yesterday}
+          <div
+            className="font-semibold tabular-nums"
+            style={{ color: yesterday < 0 ? '#c2543e' : attr.color }}
+          >
+            昨日 {yesterdayText}
           </div>
           <div className="mt-1 text-neutral-400">下一级 {nextThreshold}</div>
         </div>

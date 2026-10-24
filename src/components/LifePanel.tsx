@@ -87,9 +87,9 @@ export default function LifePanel({ stats }: LifePanelProps) {
                         <span className="h-1.5 w-1.5 rounded-full" style={{ background: attr.color }} />
                         <span
                           className="tabular-nums font-medium"
-                          style={{ color: v > 0 ? attr.color : '#a3a3a3' }}
+                          style={{ color: v > 0 ? attr.color : v < 0 ? '#c2543e' : '#a3a3a3' }}
                         >
-                          {v > 0 ? `+${v}` : '—'}
+                          {v > 0 ? `+${v}` : v < 0 ? `${v}` : '—'}
                         </span>
                       </span>
                     );
