@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-24T05:49:26.149+08:00",
+  "updatedAt": "2026-10-24T11:39:33.184+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37357,6 +37357,18 @@
         "spirit": 0
       },
       "reason": "与客户蔡总沟通涨价方案并维护长期合作意向，属客户关系维护，魅力 +1"
+    },
+    {
+      "taskId": "penalty-2026-10-23",
+      "completedAt": "2026-10-23T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-10-23，精神连续 7 天没有加分，当日 -1"
     },
     {
       "taskId": "6adb0e0debae5a000000058f",
