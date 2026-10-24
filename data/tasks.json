@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-24T11:39:33.184+08:00",
+  "updatedAt": "2026-10-25T05:24:24.211+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37405,6 +37405,150 @@
         "spirit": 0
       },
       "reason": "单次合同流程问询，属事务性沟通，无实质产出，按宁缺毋滥不给分"
+    },
+    {
+      "taskId": "penalty-2026-10-24",
+      "completedAt": "2026-10-24T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-10-24，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6adb0d55ebae5a0000000555",
+      "completedAt": "2026-10-24T18:38:01+0800",
+      "title": "两个报价单修改",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成报价单修改，属工作产出"
+    },
+    {
+      "taskId": "6adb0e25ebae5a0000000597",
+      "completedAt": "2026-10-24T18:38:05+0800",
+      "title": "问一下我爸",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "内容不明确，无法判断实际影响"
+    },
+    {
+      "taskId": "6adb0d5debae5a000000055d",
+      "completedAt": "2026-10-24T18:40:48+0800",
+      "title": "问蔡总把式样书和报价单直接给况总合适吗",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "就客户沟通方式征询意见，属客户关系处理"
+    },
+    {
+      "taskId": "6adb0d0cebae5a000000053d",
+      "completedAt": "2026-10-24T18:40:50+0800",
+      "title": "工作内容",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题笼统，子任务已单独判定，避免重复计分"
+    },
+    {
+      "taskId": "6adb0d73ebae5a0000000564",
+      "completedAt": "2026-10-24T18:42:11+0800",
+      "title": "问蔡总，是不是需要修改工作台",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "推进工作台修改确认，属工作产出"
+    },
+    {
+      "taskId": "6adb0ce1ebae5a000000052b",
+      "completedAt": "2026-10-24T21:14:29+0800",
+      "title": "点数倒退",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "记录系统规则，无实际属性影响"
+    },
+    {
+      "taskId": "6ac665a1ebae5a0000000227",
+      "completedAt": "2026-10-24T21:14:37+0800",
+      "title": "没有任何点数增加的话，数值会倒退",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "记录系统规则，无实际属性影响"
+    },
+    {
+      "taskId": "6adb1f79ebae5a00000005ca",
+      "completedAt": "2026-10-24T21:14:46+0800",
+      "title": "和蔡总说，欧总给了个大拇指，笑死了",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "与同事互动交流，属社交沟通"
+    },
+    {
+      "taskId": "6ad07568e120d10224413f05",
+      "completedAt": "2026-10-24T21:14:50+0800",
+      "title": "展会的客户之后需要进行联系吗？",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅为待确认事项，无明确社交实际行动"
+    },
+    {
+      "taskId": "6adccc9bebae5a00000007e7",
+      "completedAt": "2026-10-24T23:19:55+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，不给分"
+    },
+    {
+      "taskId": "6ad9943c67d5110525c7eca8",
+      "completedAt": "2026-10-24T23:20:25+0800",
+      "title": "恢复U盘那个文件夹的数据",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成数据恢复，属技术性解决问题"
     }
   ]
 }
