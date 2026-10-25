@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-25T05:24:24.211+08:00",
+  "updatedAt": "2026-10-26T05:22:29.431+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37549,6 +37549,66 @@
         "spirit": 0
       },
       "reason": "完成数据恢复，属技术性解决问题"
+    },
+    {
+      "taskId": "penalty-2026-10-25",
+      "completedAt": "2026-10-25T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-10-25，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6ade182debae5a00000008fe",
+      "completedAt": "2026-10-25T22:54:37+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，无法明确对应属性，不加分"
+    },
+    {
+      "taskId": "6ade182febae5a0000000901",
+      "completedAt": "2026-10-25T22:54:39+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时运动，体力 +1"
+    },
+    {
+      "taskId": "6ad08d3fa0019103a2b885bf",
+      "completedAt": "2026-10-25T22:55:58+0800",
+      "title": "离合器是什么？干离合还是湿离合？",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动学习机械结构知识，智力 +1"
+    },
+    {
+      "taskId": "6ade2329ebae5a000000095a",
+      "completedAt": "2026-10-25T23:41:29+0800",
+      "title": "写周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "撰写周报属于工作产出与复盘，智力 +1"
     }
   ]
 }
