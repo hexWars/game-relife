@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-27T07:01:02.226+08:00",
+  "updatedAt": "2026-10-28T06:50:03.304+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37693,6 +37693,54 @@
         "spirit": 0
       },
       "reason": "仅索要联系方式的事务性提醒，无明确成长或负面行为"
+    },
+    {
+      "taskId": "6adf4f5b4f84d143327a9bd6",
+      "completedAt": "2026-10-27T10:36:26+0800",
+      "title": "一式两份",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题信息不足，疑似合同份数处理，无法判断具体成长方向，给 0 分"
+    },
+    {
+      "taskId": "6adf397debae5a0000000204",
+      "completedAt": "2026-10-27T10:36:28+0800",
+      "title": "那个合同顺丰快递",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "寄送合同属于行政跑腿事务，无明显学习或产出属性，按宁缺毋滥给 0 分"
+    },
+    {
+      "taskId": "penalty-2026-10-27",
+      "completedAt": "2026-10-27T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-10-27，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6ae0329aebae5a00000003d6",
+      "completedAt": "2026-10-27T13:11:54+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，轻度养护，达不到运动或成长判定标准，按宁缺毋滥给 0 分"
     }
   ]
 }
