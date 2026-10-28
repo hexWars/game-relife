@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-28T06:50:03.304+08:00",
+  "updatedAt": "2026-10-29T06:57:29.028+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37741,6 +37741,90 @@
         "spirit": 0
       },
       "reason": "日常家务琐事，轻度养护，达不到运动或成长判定标准，按宁缺毋滥给 0 分"
+    },
+    {
+      "taskId": "penalty-2026-10-28",
+      "completedAt": "2026-10-28T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-10-28，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6ae1ce90b7e3d11274a8faa2",
+      "completedAt": "2026-10-28T18:29:36+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务照料，无明确属性成长"
+    },
+    {
+      "taskId": "6ae1d3f4ebae5a000000067d",
+      "completedAt": "2026-10-28T18:52:41+0800",
+      "title": "esp32",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "ESP32 相关开发实践，属技术学习与产出"
+    },
+    {
+      "taskId": "6ada0c47ebae5a00000003d8",
+      "completedAt": "2026-10-28T18:52:49+0800",
+      "title": "温度湿度 传感器",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "搭建温湿度传感器，属技术实践与工作产出"
+    },
+    {
+      "taskId": "6ae1e25311cdd1158779762d",
+      "completedAt": "2026-10-28T20:37:10+0800",
+      "title": "客户邀约",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "邀请客户，属社交与关系维护"
+    },
+    {
+      "taskId": "6ae1f178ebae5a000000076a",
+      "completedAt": "2026-10-28T20:58:32+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "运动半小时，直接锻炼身体"
+    },
+    {
+      "taskId": "6ac51484ebae5a0000000703",
+      "completedAt": "2026-10-28T22:37:22+0800",
+      "title": "问我爸机型的问题",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常询问信息，无明确成长属性"
     }
   ]
 }
