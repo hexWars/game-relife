@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-29T06:57:29.028+08:00",
+  "updatedAt": "2026-10-30T07:05:27.718+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37825,6 +37825,66 @@
         "spirit": 0
       },
       "reason": "日常询问信息，无明确成长属性"
+    },
+    {
+      "taskId": "penalty-2026-10-29",
+      "completedAt": "2026-10-29T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-10-29，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6ae34b47e4fe112fe8b63efb",
+      "completedAt": "2026-10-29T23:19:34+0800",
+      "title": "大姐家他儿子的邮费发票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "代办的发票琐事，中性不给分"
+    },
+    {
+      "taskId": "6ad8a2916d51d17db7bf0588",
+      "completedAt": "2026-10-29T23:20:05+0800",
+      "title": "华机展",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "参观行业展会了解行业信息，属学习成长"
+    },
+    {
+      "taskId": "6ad08d74f7f51103a2b8861c",
+      "completedAt": "2026-10-29T23:20:23+0800",
+      "title": "有一个400的，然后他们搞一些材料的是需要搞出那种固定的材料，一个薄料长度400高就斜的，也是有这家原本都是酒的客户",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "梳理客户的材料规格需求，属工作产出，智力+1"
+    },
+    {
+      "taskId": "6ada0c4debae5a00000003dc",
+      "completedAt": "2026-10-29T23:20:41+0800",
+      "title": "盛水盘",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "含义不明的日常事务，不给分"
     }
   ]
 }
