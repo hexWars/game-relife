@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-30T07:05:27.718+08:00",
+  "updatedAt": "2026-10-31T06:46:12.250+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37885,6 +37885,90 @@
         "spirit": 0
       },
       "reason": "含义不明的日常事务，不给分"
+    },
+    {
+      "taskId": "penalty-2026-10-30",
+      "completedAt": "2026-10-30T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-10-30，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6ae45c675bb1513fcf5a850f",
+      "completedAt": "2026-10-30T19:56:42+0800",
+      "title": "给广焕统计数据",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "整理统计数据，属于工作产出"
+    },
+    {
+      "taskId": "6adcaf4febae5a000000074a",
+      "completedAt": "2026-10-30T20:02:40+0800",
+      "title": "联系展会客户",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "主动联系客户、维护关系，属于社交/关系维护"
+    },
+    {
+      "taskId": "6ae45c5c9e0c113fcf5a84ea",
+      "completedAt": "2026-10-30T21:11:59+0800",
+      "title": "邮箱中石化电子票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常行政琐事，不给分"
+    },
+    {
+      "taskId": "6ae36415ebae5a0000000a99",
+      "completedAt": "2026-10-30T22:05:48+0800",
+      "title": "大姐家儿子的二维码看不清楚",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅为待办备注类记录，行为性质不明确，不给分"
+    },
+    {
+      "taskId": "6ae4b9afebae5a0000000eb7",
+      "completedAt": "2026-10-30T23:38:01+0800",
+      "title": "网片板托支架",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题信息不足，无法判断具体行为，不给分"
+    },
+    {
+      "taskId": "6adcccc4ebae5a0000000829",
+      "completedAt": "2026-10-30T23:38:16+0800",
+      "title": "恢复硬盘数据",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成硬盘数据恢复，属于解决问题的技术性产出"
     }
   ]
 }
