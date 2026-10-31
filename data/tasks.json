@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T06:46:12.250+08:00",
+  "updatedAt": "2026-11-01T06:09:24.010+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -37969,6 +37969,150 @@
         "spirit": 0
       },
       "reason": "完成硬盘数据恢复，属于解决问题的技术性产出"
+    },
+    {
+      "taskId": "penalty-2026-10-31",
+      "completedAt": "2026-10-31T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-10-31，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6ae57790b585914fa256cf2f",
+      "completedAt": "2026-10-31T14:31:29+0800",
+      "title": "电话权益",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常事务，信息不足，不给分"
+    },
+    {
+      "taskId": "6ae567fda1f2114bf643c99c",
+      "completedAt": "2026-10-31T15:57:00+0800",
+      "title": "和欧总说明",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作沟通，中性，不给分"
+    },
+    {
+      "taskId": "6ae4a46acc0291445908b8fb",
+      "completedAt": "2026-10-31T16:06:49+0800",
+      "title": "和阿才确定信息",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作沟通协调，中性，不给分"
+    },
+    {
+      "taskId": "6ae3642debae5a0000000ab6",
+      "completedAt": "2026-10-31T16:11:49+0800",
+      "title": "了解华机展",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "了解展会信息，学习研究，提升智力"
+    },
+    {
+      "taskId": "6ae577999a10914fa256cf54",
+      "completedAt": "2026-10-31T16:12:05+0800",
+      "title": "话费确定",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常事务处理，中性，不给分"
+    },
+    {
+      "taskId": "6ae4be1bc2fb514ba43b6011",
+      "completedAt": "2026-10-31T17:00:08+0800",
+      "title": "充电宝问一下我爸有没有多的",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常琐事，无法判断，不给分"
+    },
+    {
+      "taskId": "6ae4b9f2ebae5a0000000ee2",
+      "completedAt": "2026-10-31T17:29:16+0800",
+      "title": "恢复硬盘数据",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "技术问题处理与解决，提升智力"
+    },
+    {
+      "taskId": "6adf6735ebae5a00000002ee",
+      "completedAt": "2026-10-31T18:37:29+0800",
+      "title": "日记",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常记录，信息不足，不给分"
+    },
+    {
+      "taskId": "6ac60a24ebae5a0000000984",
+      "completedAt": "2026-10-31T18:37:30+0800",
+      "title": "写ob日记",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日记写作与复盘输出，提升智力"
+    },
+    {
+      "taskId": "6ae60987ebae5a0000001464",
+      "completedAt": "2026-10-31T23:30:15+0800",
+      "title": "公司绩效考核",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成工作绩效复盘与产出，提升智力"
+    },
+    {
+      "taskId": "6ae609a7ebae5a0000001489",
+      "completedAt": "2026-10-31T23:30:47+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "运动锻炼半小时，提升体力"
     }
   ]
 }
