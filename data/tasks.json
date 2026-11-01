@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-01T06:09:24.010+08:00",
+  "updatedAt": "2026-11-02T06:35:04.495+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -38113,6 +38113,258 @@
         "spirit": 0
       },
       "reason": "运动锻炼半小时，提升体力"
+    },
+    {
+      "taskId": "6ae612f2e238d1620a3240c4",
+      "completedAt": "2026-11-01T00:10:26+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务养护，不给分"
+    },
+    {
+      "taskId": "6adcb62cebae5a000000077a",
+      "completedAt": "2026-11-01T00:10:39+0800",
+      "title": "每月手机福利",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "领取福利的日常琐事，不给分"
+    },
+    {
+      "taskId": "penalty-2026-11-01",
+      "completedAt": "2026-11-01T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-11-01，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6ae6d98bebae5a000000156c",
+      "completedAt": "2026-11-01T14:17:47+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务养护，不给分"
+    },
+    {
+      "taskId": "6ae6d995ebae5a0000001580",
+      "completedAt": "2026-11-01T14:17:57+0800",
+      "title": "每月话费充值",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "话费充值的日常琐事，不给分"
+    },
+    {
+      "taskId": "6ae6d996ebae5a0000001582",
+      "completedAt": "2026-11-01T14:17:58+0800",
+      "title": "每月话费福利领取",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "领取福利的日常琐事，不给分"
+    },
+    {
+      "taskId": "6ae6da7bebae5a00000015bd",
+      "completedAt": "2026-11-01T14:21:47+0800",
+      "title": "写周报",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "撰写工作周报属于工作产出，智力 +1"
+    },
+    {
+      "taskId": "6a749e1debae5a00000004de",
+      "completedAt": "2026-11-01T15:22:19+0800",
+      "title": "报销七月私车公用",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销类日常事务，不给分"
+    },
+    {
+      "taskId": "6a9d68d0ebae5a000000163e",
+      "completedAt": "2026-11-01T15:26:07+0800",
+      "title": "报销八月私车公用",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销类日常事务，不给分"
+    },
+    {
+      "taskId": "6ab4a5afebae5a0000000a36",
+      "completedAt": "2026-11-01T15:26:13+0800",
+      "title": "退回",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "标题信息不足，无法判断，给 0"
+    },
+    {
+      "taskId": "6ae0af5febae5a00000004c7",
+      "completedAt": "2026-11-01T15:27:30+0800",
+      "title": "停车的报销",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销类日常事务，不给分"
+    },
+    {
+      "taskId": "6ae31da08f20112cb231c6bc",
+      "completedAt": "2026-11-01T15:33:42+0800",
+      "title": "10月29号的高速费",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销类日常事务，不给分"
+    },
+    {
+      "taskId": "6ae0af63ebae5a00000004ce",
+      "completedAt": "2026-11-01T15:37:01+0800",
+      "title": "10.27这天的部分高速费报销",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销类日常事务，不给分"
+    },
+    {
+      "taskId": "6ae08ae4eb205159fa1522cf",
+      "completedAt": "2026-11-01T15:39:17+0800",
+      "title": "高速费",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销类日常事务，不给分"
+    },
+    {
+      "taskId": "6ada0c69ebae5a00000003f2",
+      "completedAt": "2026-11-01T17:53:55+0800",
+      "title": "不锈钢网片64x34 63.7x33.7",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作采购规格确认，属日常事务"
+    },
+    {
+      "taskId": "6ae72fa36cb7516ee42bb162",
+      "completedAt": "2026-11-01T20:25:07+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时运动，体力 +1"
+    },
+    {
+      "taskId": "6ae72fa5a9fb916ee42bb16c",
+      "completedAt": "2026-11-01T20:25:09+0800",
+      "title": "看书25分钟",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "读书学习，智力 +1"
+    },
+    {
+      "taskId": "6ae4a458b7dad1445908b8c8",
+      "completedAt": "2026-11-01T20:28:05+0800",
+      "title": "周日检查笔记本电脑ai运行问题",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "排查并解决电脑 AI 运行问题，属于技术问题解决"
+    },
+    {
+      "taskId": "6ae7308ed9b4116ee42bb375",
+      "completedAt": "2026-11-01T21:12:26+0800",
+      "title": "和沙姐说明汕头的合同",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "常规工作沟通，难以判定为社交或成长，给 0"
+    },
+    {
+      "taskId": "6ada0c5febae5a00000003e8",
+      "completedAt": "2026-11-01T23:17:01+0800",
+      "title": "灯具",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "采购物品类待办，无明确成长属性"
+    },
+    {
+      "taskId": "6a8f9af0edf69125aaeaf775",
+      "completedAt": "2026-11-01T23:52:03+0800",
+      "title": "高速发票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "整理报销发票属日常事务，不给分"
     }
   ]
 }
