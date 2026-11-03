@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-03T09:27:38.654+08:00",
+  "updatedAt": "2026-11-04T07:51:55.023+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -38473,6 +38473,78 @@
         "spirit": 0
       },
       "reason": "完成半小时运动，体力+1"
+    },
+    {
+      "taskId": "penalty-2026-11-03",
+      "completedAt": "2026-11-03T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-11-03，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6ae895cced32118d86767131",
+      "completedAt": "2026-11-03T15:36:15+0800",
+      "title": "公司宣传册和yamada宣传册",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "完成宣传册制作，属于工作产出，智力+1"
+    },
+    {
+      "taskId": "6ae9dae1791991a699e780fd",
+      "completedAt": "2026-11-03T21:00:17+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常琐事类养护，按规则不给分"
+    },
+    {
+      "taskId": "6ada0c53ebae5a00000003e0",
+      "completedAt": "2026-11-03T21:00:21+0800",
+      "title": "铝型材",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "仅有材料名称，无法判断具体行为，给 0 分"
+    },
+    {
+      "taskId": "6ae9dd13764dd1a699e78315",
+      "completedAt": "2026-11-03T21:09:39+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时运动，体力+1"
+    },
+    {
+      "taskId": "6ae9ec6e2ea211a699e78429",
+      "completedAt": "2026-11-03T23:16:42+0800",
+      "title": "回复中间商",
+      "effects": {
+        "charm": 1,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "回复中间商属于维护业务关系与人际沟通，魅力+1"
     }
   ]
 }
