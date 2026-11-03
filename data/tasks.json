@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-02T06:35:04.495+08:00",
+  "updatedAt": "2026-11-03T09:27:38.654+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -38365,6 +38365,114 @@
         "spirit": 0
       },
       "reason": "整理报销发票属日常事务，不给分"
+    },
+    {
+      "taskId": "6ae7f114118911771dc166e1",
+      "completedAt": "2026-11-02T11:05:47+0800",
+      "title": "早上的高速发票",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "报销票据整理，日常行政事务，记 0"
+    },
+    {
+      "taskId": "penalty-2026-11-02",
+      "completedAt": "2026-11-02T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-11-02，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6ae70c39ebae5a00000017c4",
+      "completedAt": "2026-11-02T13:04:31+0800",
+      "title": "发泡棉",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "物料相关工作事项，无法判定属性，记 0"
+    },
+    {
+      "taskId": "6ae5a1abc7ba114fa256d2bb",
+      "completedAt": "2026-11-02T19:31:11+0800",
+      "title": "华芯鼎泰地点",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作信息记录，无法判定属性，记 0"
+    },
+    {
+      "taskId": "6ae87484fd57118be4bbc5ec",
+      "completedAt": "2026-11-02T19:31:16+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，按规则记 0"
+    },
+    {
+      "taskId": "6ae8275d87b251819dd9abd7",
+      "completedAt": "2026-11-02T20:51:16+0800",
+      "title": "一般在车上门口完成交接，那么是不是可以车子进入里面，或者是包括卸货？",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作物流疑问，中性事项，记 0"
+    },
+    {
+      "taskId": "6ada0c3febae5a00000003ce",
+      "completedAt": "2026-11-02T22:31:10+0800",
+      "title": "冷水机",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "工作事项，内容不足以判定属性，记 0"
+    },
+    {
+      "taskId": "6ae8a89eebae5a0000001a68",
+      "completedAt": "2026-11-02T23:13:34+0800",
+      "title": "更新博客每月读书/游玩记录",
+      "effects": {
+        "charm": 0,
+        "intelligence": 1,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "读书并撰写博客记录，智力+1"
+    },
+    {
+      "taskId": "6ae8a8dfebae5a0000001a85",
+      "completedAt": "2026-11-02T23:14:39+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "完成半小时运动，体力+1"
     }
   ]
 }
