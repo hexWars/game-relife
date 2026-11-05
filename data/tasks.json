@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-04T07:51:55.023+08:00",
+  "updatedAt": "2026-11-05T08:05:57.230+08:00",
   "tasks": [
     {
       "taskId": "6287a506e4b0bb8f668e4713",
@@ -38545,6 +38545,42 @@
         "spirit": 0
       },
       "reason": "回复中间商属于维护业务关系与人际沟通，魅力+1"
+    },
+    {
+      "taskId": "penalty-2026-11-04",
+      "completedAt": "2026-11-04T12:00:00+0000",
+      "title": "七日无成长：精神",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": -1
+      },
+      "reason": "截至 2026-11-04，精神连续 7 天没有加分，当日 -1"
+    },
+    {
+      "taskId": "6aeb2d13260791b47ef15788",
+      "completedAt": "2026-11-04T21:03:15+0800",
+      "title": "花草养护（浇水施肥等）",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 0,
+        "spirit": 0
+      },
+      "reason": "日常家务琐事，无法明确对应属性，给 0 分"
+    },
+    {
+      "taskId": "6aeb4425ebae5a0000001e04",
+      "completedAt": "2026-11-04T22:41:41+0800",
+      "title": "运动半小时",
+      "effects": {
+        "charm": 0,
+        "intelligence": 0,
+        "stamina": 1,
+        "spirit": 0
+      },
+      "reason": "运动半小时属于健身锻炼，体力+1"
     }
   ]
 }
